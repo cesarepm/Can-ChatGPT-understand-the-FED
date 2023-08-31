@@ -1,0 +1,693 @@
+date,title,governor,tokens,hawk/dove,Inflation,Interest Rates,Economic Growth,Employment,speech_category,governor_clean
+2005-01-07,Interpreting Labor Market Statistics in the Context of Monetary Policy,"Vice Chairman Roger W. Ferguson, Jr.",1550,0.0,0,0,0,1,Generic,"Roger W. Ferguson, Jr."
+2005-01-18,The Economy and Challenges in Retirement Savings,Governor Susan Schmidt Bies,2000,0.0,1,1,1,0,Generic,Susan S. Bies
+2005-02-11,Inflation in Latin America: A New Era?,Governor Ben S. Bernanke,1599,0.0,1,0,0,0,Generic,
+2005-03-08,The Economic Outlook,Governor Ben S. Bernanke,1362,0.0,1,1,1,1,Generic,
+2005-03-30,Implementing Monetary Policy,Governor Ben S. Bernanke,2736,0.0,0,1,0,0,Generic,
+2005-04-14,Economic Outlook,Governor Donald L. Kohn,3794,0.25,1,1,1,1,Generic,Donald L. Kohn
+2005-04-18,The Economy and Managing Personal Finances,Governor Susan Schmidt Bies,2000,0.0,1,1,1,0,Generic,Susan S. Bies
+2005-04-22,Imbalances in the U.S. Economy,Governor Donald L. Kohn,2000,0.25,1,1,1,1,Generic,Donald L. Kohn
+2005-05-19,Government-sponsored enterprises,Chairman Alan Greenspan,65,0.0,0,1,0,0,Generic,
+2005-05-20,Modeling Inflation: A Policymakers Perspective,Governor Donald L. Kohn,3261,0.0,1,0,0,0,Generic,Donald L. Kohn
+2005-05-26,The Politics of Inflation Targeting,Governor Edward M. Gramlich,3204,0.0,1,0,0,0,Generic,
+2005-06-06,Central Bank panel discussion,Chairman Alan Greenspan,1000,0.0,0,1,0,0,Generic,
+2005-06-15,Managing Risk in a Changing Economic and Financial Landscape,Governor Donald L. Kohn,251,-0.5,1,1,0,0,Generic,Donald L. Kohn
+2005-09-27,Economic flexibility,Chairman Alan Greenspan,251,0.0,0,0,1,1,Generic,
+2005-09-29,Inflation Modeling: A Policymakers Perspective,Governor Donald L. Kohn,200,-0.5,1,0,0,0,Generic,Donald L. Kohn
+2005-10-11,"Globalization, Inflation, and Monetary Policy",Governor Donald L. Kohn,3605,0.0,1,1,1,1,Generic,Donald L. Kohn
+2005-10-13,Update on the U.S. Economy and Fiscal Outlook,Governor Mark W. Olson,1000,0.0,1,0,1,1,Generic,Mark W. Olson
+2005-10-18,Economic Outlook for the United States,"Vice Chairman Roger W. Ferguson, Jr.",4694,-0.2,1,0,1,1,Generic,"Roger W. Ferguson, Jr."
+2005-10-19,The Economic Outlook,Governor Donald L. Kohn,3535,0.0,1,1,1,1,Generic,Donald L. Kohn
+2005-11-03,"Monetary Credibility, Inflation, and Economic Growth","Vice Chairman Roger W. Ferguson, Jr.",1564,0.0,1,0,1,0,Generic,"Roger W. Ferguson, Jr."
+2005-12-02,International imbalances,Chairman Alan Greenspan,119,0.0,0,1,0,0,Generic,
+2005-12-05,Economic Growth: Lessons from the Sioux Falls Experience,Governor Mark W. Olson,2000,0.0,0,1,1,1,Generic,Mark W. Olson
+2006-01-18,Productivity and Economic Outlook,Governor Susan Schmidt Bies,1000,0.0,1,0,1,1,Generic,Susan S. Bies
+2006-01-31,FOMC Statement number 8,FOMC,139,0.5,1,1,1,0,FOMC,FOMC
+2006-02-24,The Benefits of Price Stability,Chairman Ben S. Bernanke,3744,0.0,1,1,0,1,Generic,Ben S. Bernanke
+2006-03-03,Economic Outlook for the United States,"Vice Chairman Roger W. Ferguson, Jr.",3302,0.0,1,1,1,1,Generic,"Roger W. Ferguson, Jr."
+2006-03-16,Monetary policy and asset prices,Governor Donald L. Kohn,463,0.0,0,1,0,0,Generic,Donald L. Kohn
+2006-03-20,Reflections on the Yield Curve and Monetary Policy,Chairman Ben S. Bernanke,3000,0.0,0,1,0,0,Generic,Ben S. Bernanke
+2006-03-28,FOMC Statement number 7,FOMC,208,0.5,1,1,1,0,FOMC,FOMC
+2006-04-13,Economic outlook,Governor Donald L. Kohn,3547,0.25,1,1,1,1,Generic,Donald L. Kohn
+2006-04-13,Update on the U.S. economy,Governor Mark W. Olson,1452,0.25,1,1,1,1,Generic,Mark W. Olson
+2006-05-03,Community Revitalization: Lessons from Anacostia,Chairman Ben S. Bernanke,1000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2006-05-10,FOMC Statement number 6,FOMC,220,0.5,1,1,1,0,FOMC,FOMC
+2006-05-25,Community Development and the Bigger Picture,Governor Mark W. Olson,264,0.0,1,0,1,1,Generic,Mark W. Olson
+2006-06-05,Panel Discussion: Comments on the Outlook for the U.S. Economy and Monetary Policy,Chairman Ben S. Bernanke,1781,0.0,1,0,0,0,Generic,Ben S. Bernanke
+2006-06-09,Commencement address,Chairman Ben S. Bernanke,1081,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2006-06-15,Energy and the Economy,Chairman Ben S. Bernanke,1303,-0.25,1,0,0,0,Generic,Ben S. Bernanke
+2006-06-15,Why Are Yield Curves So Flat and Long Rates So Low Globally?,Governor Randall S. Kroszner,3000,-0.16666666666666666,1,1,0,0,Generic,Randall S. Kroszner
+2006-06-16,The Effects of Globalization on Inflation and Their Implications for Monetary Policy,Governor Donald L. Kohn,4000,0.0,1,0,0,0,Generic,Donald L. Kohn
+2006-06-16,Why Are Yield Curves So Flat and Long Rates So Low Globally?,Governor Randall S. Kroszner,4000,0.0,1,1,0,0,Generic,Randall S. Kroszner
+2006-06-29,FOMC Statement number 5,FOMC,217,0.5,1,1,1,0,FOMC,FOMC
+2006-07-06,Reflections on Globalization and Policies,Vice Chairman Donald L. Kohn,2000,0.0,1,0,0,0,Generic,Donald L. Kohn
+2006-07-18,Corporate Cash Balances and Economic Activity,Governor Kevin Warsh,1000,0.0,0,1,1,0,Generic,Kevin Warsh
+2006-08-08,FOMC Statement number 4,FOMC,178,0.5,1,1,1,0,FOMC,FOMC
+2006-08-31,Productivity,Chairman Ben S. Bernanke,2718,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2006-09-20,FOMC Statement number 3,FOMC,165,0.0,1,1,1,0,FOMC,FOMC
+2006-09-27,What Drives Productivity Growth?  Implications for the Economy and Prospects for the Future,Governor Randall S. Kroszner,3000,0.0,0,1,1,0,Generic,Randall S. Kroszner
+2006-10-04,Economic Outlook,Vice Chairman Donald L. Kohn,3307,-0.25,1,1,1,1,Generic,Donald L. Kohn
+2006-10-12,Globalization: A Force for Good?,Governor Frederic S. Mishkin,2000,0.0,0,0,1,0,Generic,Frederic S. Mishkin
+2006-10-25,FOMC Statement number 2,FOMC,171,0.0,1,1,1,0,FOMC,FOMC
+2006-11-02,The Economic Outlook,Governor Susan S. Bies,3122,0.0,1,0,1,1,Generic,Susan S. Bies
+2006-11-16,The Conquest of Worldwide Inflation: Currency Competition and Its Implications for Interest Rates and the Yield Curve,Governor Randall S. Kroszner,4000,0.0,1,1,0,0,Generic,Randall S. Kroszner
+2006-11-21,Financial Markets and the Federal Reserve,Governor Kevin Warsh,2000,0.0,1,1,0,0,Generic,Kevin Warsh
+2006-11-28,The Economic Outlook,Chairman Ben S. Bernanke,4817,-0.1,1,0,1,1,Generic,Ben S. Bernanke
+2006-12-01,Monetary Policy and Uncertainty,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2006-12-01,Welcoming remarks,Chairman Ben S. Bernanke,198,0.0,1,0,0,0,Generic,Ben S. Bernanke
+2006-12-12,FOMC Statement number 1,FOMC,181,0.0,1,1,1,0,FOMC,FOMC
+2006-12-15,The Chinese Economy: Progress and Challenges,Chairman Ben S. Bernanke,2000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2007-01-08,The Economic Outlook,Vice Chairman Donald L. Kohn,2000,-0.25,1,0,1,0,Generic,Donald L. Kohn
+2007-01-17,Enterprise Risk Management and Mortgage Lending,Governor Frederic S. Mishkin,2000,-0.25,1,1,0,0,Generic,Frederic S. Mishkin
+2007-01-18,Economic Outlook and Developments in Mortgage Markets,Governor Susan Schmidt Bies,2632,0.0,1,1,1,1,Generic,Susan S. Bies
+2007-01-31,FOMC Statement number 17,FOMC,154,0.0,1,1,1,0,FOMC,FOMC
+2007-02-06,The Level and Distribution of Economic Well-Being,Chairman Ben S. Bernanke,1000,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2007-03-02,Globalization and Monetary Policy,Chairman Ben S. Bernanke,5000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2007-03-09,"Comments on âUnderstanding the Evolving Inflation Processâ by Cecchetti, Hooper, Kasman, Schoenholtz, and Watson",Vice Chairman Donald L. Kohn,2000,0.0,1,0,0,0,Generic,Donald L. Kohn
+2007-03-09,Liquidity and monetary policy,Governor Randall S. Kroszner,2000,0.0,1,1,0,0,Generic,Randall S. Kroszner
+2007-03-12,The Changing Dynamics of Inflation,Governor Randall S. Kroszner,4826,-0.2,1,1,1,0,Generic,Randall S. Kroszner
+2007-03-21,FOMC Statement number 16,FOMC,140,0.5,1,1,1,0,FOMC,FOMC
+2007-03-22,"Asset-Pricing Puzzles, Credit Risk, and Credit Derivatives",Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2007-03-23,Inflation Dynamics,Governor Frederic S. Mishkin,6241,0.0,1,0,0,0,Generic,Frederic S. Mishkin
+2007-04-10,Monetary Policy and the Dual Mandate,Governor Frederic S. Mishkin,1000,-0.5,1,0,0,0,Generic,Frederic S. Mishkin
+2007-04-20,The U.S. Economic Outlook,Governor Frederic S. Mishkin,3090,0.125,1,1,1,1,Generic,Frederic S. Mishkin
+2007-04-26,Globalization and Financial Development,Governor Frederic S. Mishkin,2410,0.0,0,0,1,0,Generic,Frederic S. Mishkin
+2007-05-01,Embracing the Challenge of Free Trade: Competing and Prospering in a Global Economy,Chairman Ben S. Bernanke,2000,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2007-05-09,FOMC Statement number 15,FOMC,141,0.5,1,1,1,0,FOMC,FOMC
+2007-05-16,Globalization and Capital Markets: Implications for Inflation and the Yield Curve,Governor Randall S. Kroszner,4000,0.0,1,1,0,0,Generic,Randall S. Kroszner
+2007-05-24,Estimating Potential Output,Governor Frederic S. Mishkin,2000,0.0,0,0,0,1,Generic,Frederic S. Mishkin
+2007-06-01,Outlook and Risks for the U.S. Economy,Governor Randall S. Kroszner,2000,0.0,1,1,1,1,Generic,Randall S. Kroszner
+2007-06-05,The Housing Market and Subprime Lending,Chairman Ben S. Bernanke,1000,-0.5,0,0,1,0,Generic,Ben S. Bernanke
+2007-06-23,Globalization and Financial Development,Governor Frederic S. Mishkin,1414,0.0,0,0,1,0,Generic,Frederic S. Mishkin
+2007-06-28,FOMC Statement number 14,FOMC,158,0.5,1,1,1,0,FOMC,FOMC
+2007-07-10,Inflation Expectations and Inflation Forecasting,Chairman Ben S. Bernanke,5401,0.0,1,0,0,0,Generic,Ben S. Bernanke
+2007-08-07,FOMC Statement number 13,FOMC,191,0.5,1,1,1,1,FOMC,FOMC
+2007-08-10,FOMC Statement number 12,FOMC,92,0.0,0,1,0,0,FOMC,FOMC
+2007-08-31,"Housing, Housing Finance, and Monetary Policy",Chairman Ben S. Bernanke,1000,0.0,0,1,0,0,Generic,Ben S. Bernanke
+2007-09-10,Outlook and Risks for the U.S. Economy,Governor Frederic S. Mishkin,2000,0.25,0,1,1,0,Generic,Frederic S. Mishkin
+2007-09-18,FOMC Statement number 11,FOMC,196,-0.5,1,1,1,0,FOMC,FOMC
+2007-09-21,Success and Failure of Monetary Policy since the 1950s,Vice Chairman Donald L. Kohn,1696,0.0,1,1,0,0,Generic,Donald L. Kohn
+2007-09-24,Education and Economic Competitiveness,Chairman Ben S. Bernanke,1000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2007-09-27,"Globalization, Macroeconomic Performance, and Monetary Policy",Governor Frederic S. Mishkin,2000,0.0,1,1,0,0,Generic,Frederic S. Mishkin
+2007-09-28,Systemic Risk and the International Lender of Last Resort,Governor Frederic S. Mishkin,1000,0.0,1,0,1,1,Generic,Frederic S. Mishkin
+2007-10-05,Economic Outlook,Vice Chairman Donald L. Kohn,2960,0.16666666666666666,0,1,1,0,Generic,Donald L. Kohn
+2007-10-05,Financial Stability and the Federal Reserve,Governor Kevin Warsh,196,0.0,1,0,0,1,Generic,Kevin Warsh
+2007-10-12,John Taylor Rules,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2007-10-15,The Recent Financial Turmoil and its Economic and Policy Consequences,Chairman Ben S. Bernanke,1000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2007-10-20,Headline versus Core Inflation in the Conduct of Monetary Policy,Governor Frederic S. Mishkin,4287,-0.1,1,0,0,0,Generic,Frederic S. Mishkin
+2007-10-26,Financial Instability and the Federal Reserve as a Liquidity Provider,Governor Frederic S. Mishkin,1484,0.0,0,1,0,0,Generic,Frederic S. Mishkin
+2007-10-31,FOMC Statement number 10,FOMC,233,0.0,1,1,1,0,FOMC,FOMC
+2007-11-05,Financial Instability and Monetary Policy,Governor Frederic S. Mishkin,1494,-0.25,1,1,0,0,Generic,Frederic S. Mishkin
+2007-11-07,The End of History?,Governor Kevin Warsh,232,0.0,1,0,0,0,Generic,Kevin Warsh
+2007-11-14,Federal Reserve Communications,Chairman Ben S. Bernanke,1000,0.0,1,0,1,1,Generic,Ben S. Bernanke
+2007-11-16,Risk Management and the Economic Outlook,Governor Randall S. Kroszner,2673,-0.16666666666666666,1,0,1,0,Generic,Randall S. Kroszner
+2007-11-28,Financial Markets and Central Banking,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2007-11-29,National and regional economic overview,Chairman Ben S. Bernanke,2000,0.0,0,1,0,1,Generic,Ben S. Bernanke
+2007-11-29,The Federal Reserveâs Enhanced Communication Strategy and the Science of Monetary Policy,Governor Frederic S. Mishkin,3000,-0.16666666666666666,1,0,0,0,Generic,Frederic S. Mishkin
+2007-12-11,FOMC Statement number 9,FOMC,202,-0.5,1,1,1,0,FOMC,FOMC
+2008-01-10,"Financial Markets, the Economic Outlook, and Monetary Policy",Chairman Ben S. Bernanke,1564,-0.25,1,1,1,0,Generic,Ben S. Bernanke
+2008-01-11,"Monetary Policy Flexibility, Risk Management, and Financial Disruptions",Governor Frederic S. Mishkin,316,0.0,1,0,0,0,Generic,Frederic S. Mishkin
+2008-01-30,FOMC Statement number 26,FOMC,160,-0.5,0,1,1,1,FOMC,FOMC
+2008-02-15,The Federal Reserve's Tools for Responding to Financial Disruptions,Governor Frederic S. Mishkin,3126,-0.125,0,1,0,0,Generic,Frederic S. Mishkin
+2008-02-25,Does Stabilizing Inflation Contribute to Stabilizing Economic Activity?,Governor Frederic S. Mishkin,3294,-0.125,1,1,1,1,Generic,Frederic S. Mishkin
+2008-02-26,The U.S. Economy and Monetary Policy,Vice Chairman Donald L. Kohn,3000,-0.3333333333333333,1,1,1,1,Generic,Donald L. Kohn
+2008-03-04,Outlook and Risks for the U.S. Economy,Governor Frederic S. Mishkin,3424,-0.25,1,1,1,1,Generic,Frederic S. Mishkin
+2008-03-04,Reducing Preventable Mortgage Foreclosures,Chairman Ben S. Bernanke,1000,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2008-03-07,Exchange Rate Pass-Through and Monetary Policy,Governor Frederic S. Mishkin,2700,0.0,1,0,0,0,Generic,Frederic S. Mishkin
+2008-03-07,Implications of Globalization for the Conduct of Monetary Policy,Vice Chairman Donald L. Kohn,1000,0.0,1,0,0,0,Generic,Donald L. Kohn
+2008-03-18,FOMC Statement number 24,FOMC,226,-0.5,1,1,1,1,FOMC,FOMC
+2008-03-27,"Comfort Zones, Shmumfort Zones",Governor Frederic S. Mishkin,4555,0.0,1,0,0,0,Generic,Frederic S. Mishkin
+2008-04-03,Central Bank Commitment and Communication,Governor Frederic S. Mishkin,4523,0.0,1,1,0,1,Generic,Frederic S. Mishkin
+2008-04-14,Financial Market Turmoil and the Federal Reserve: The Plot Thickens,Governor Kevin Warsh,1000,0.0,0,1,1,0,Generic,Kevin Warsh
+2008-04-30,FOMC Statement number 23,FOMC,220,-0.5,0,1,1,1,FOMC,FOMC
+2008-05-15,How Should We Respond to Asset Price Bubbles?,Governor Frederic S. Mishkin,2000,0.0,1,0,1,0,Generic,Frederic S. Mishkin
+2008-05-20,The Economic Outlook,Vice Chairman Donald L. Kohn,3000,-0.3333333333333333,1,0,1,1,Generic,Donald L. Kohn
+2008-05-21,The Federal Funds Rate in Extraordinary Times,Governor Kevin Warsh,3000,-0.16666666666666666,1,1,0,0,Generic,Kevin Warsh
+2008-06-03,Remarks on the economic outlook,Chairman Ben S. Bernanke,1888,-0.25,1,1,1,1,Generic,Ben S. Bernanke
+2008-06-04,Remarks on Class Day 2008,Chairman Ben S. Bernanke,4000,-0.125,1,0,1,1,Generic,Ben S. Bernanke
+2008-06-09,Outstanding Issues in the Analysis of Inflation,Chairman Ben S. Bernanke,3516,0.0,1,0,0,0,Generic,Ben S. Bernanke
+2008-06-11,Lessons for Central Bankers from a Phillips Curve Framework,Vice Chairman Donald L. Kohn,4647,-0.1,1,1,0,1,Generic,Donald L. Kohn
+2008-06-25,FOMC Statement number 22,FOMC,216,-0.5,1,1,1,1,FOMC,FOMC
+2008-06-26,Global Economic Integration and Decoupling,Vice Chairman Donald L. Kohn,1531,0.0,1,0,0,0,Generic,Donald L. Kohn
+2008-07-17,Federal Reserve's Initiatives to Support Minority-Owned Institutions and Expand Consumer Protection,Governor Randall S. Kroszner,1000,0.0,1,0,1,1,Generic,Randall S. Kroszner
+2008-07-28,Remarks on covered bond framework,Governor Kevin Warsh,597,0.0,0,0,1,1,Generic,Kevin Warsh
+2008-07-28,Whither Federal Reserve Communications,Governor Frederic S. Mishkin,3000,0.0,1,0,0,0,Generic,Frederic S. Mishkin
+2008-08-05,FOMC Statement number 21,FOMC,204,-0.5,1,1,1,1,FOMC,FOMC
+2008-08-22,Reducing Systemic Risk,Chairman Ben S. Bernanke,1000,-0.5,0,0,1,1,Generic,Ben S. Bernanke
+2008-09-16,FOMC Statement number 20,FOMC,194,-0.5,1,1,1,1,FOMC,FOMC
+2008-10-08,FOMC Statement number 19,FOMC,481,-1.0,1,1,0,0,FOMC,FOMC
+2008-10-15,Economic Outlook,Vice Chairman Donald L. Kohn,1000,0.0,0,0,1,0,Generic,Donald L. Kohn
+2008-10-15,Stabilizing the Financial Markets and the Economy,Chairman Ben S. Bernanke,583,-0.5,0,1,1,0,Generic,Ben S. Bernanke
+2008-10-29,FOMC Statement number 18,FOMC,226,-1.0,0,1,1,1,FOMC,FOMC
+2008-11-19,Monetary Policy and Asset Prices Revisited,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2008-12-01,Federal Reserve Policies in the Financial Crisis,Chairman Ben S. Bernanke,2000,0.0,0,1,1,0,Generic,Ben S. Bernanke
+2008-12-08,Restoring Financial Intermediation by Banks: The Role of Regulators,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2009-01-13,The Crisis and the Policy Response,Chairman Ben S. Bernanke,2000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2009-01-28,FOMC Statement number 34,FOMC,464,-0.5,1,1,1,1,FOMC,FOMC
+2009-02-11,Stabilizing the Housing Market:  Next Steps,Governor Elizabeth A. Duke,1000,-0.5,0,0,1,0,Generic,Elizabeth A. Duke
+2009-02-18,Federal Reserve Policies to Ease Credit and Their Implications for the Fed's Balance Sheet,Chairman Ben S. Bernanke,2000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2009-03-18,FOMC Statement number 33,FOMC,444,-0.5,1,1,1,1,FOMC,FOMC
+2009-04-03,The Federal Reserve's Balance Sheet,Chairman Ben S. Bernanke,1142,-0.25,0,1,0,0,Generic,Ben S. Bernanke
+2009-04-06,The Panic of 2008,Governor Kevin Warsh,1000,-0.5,0,0,0,1,Generic,Kevin Warsh
+2009-04-14,Four Questions about the Financial Crisis,Chairman Ben S. Bernanke,1000,0.0,0,1,0,0,Generic,Ben S. Bernanke
+2009-04-18,Monetary Policy in the Financial Crisis,Vice Chairman Donald L. Kohn,3000,-0.16666666666666666,0,1,0,0,Generic,Donald L. Kohn
+2009-04-20,The Economic Outlook,Vice Chairman Donald L. Kohn,5000,-0.2,1,0,1,1,Generic,Donald L. Kohn
+2009-04-29,FOMC Statement number 32,FOMC,430,-0.5,1,1,1,1,FOMC,FOMC
+2009-05-23,Interactions between Monetary and Fiscal Policy in the Current Situation,Vice Chairman Donald L. Kohn,1829,-0.25,0,1,0,0,Generic,Donald L. Kohn
+2009-06-15,Containing the Crisis and Promoting Economic Recovery,Governor Elizabeth A. Duke,2000,-0.25,0,1,0,0,Generic,Elizabeth A. Duke
+2009-06-16,Defining Deviancy,Governor Kevin Warsh,3000,-0.16666666666666666,0,0,1,1,Generic,Kevin Warsh
+2009-06-24,FOMC Statement number 31,FOMC,374,-0.5,1,1,1,0,FOMC,FOMC
+2009-06-26,Brief Remarks,Chairman Ben S. Bernanke,790,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2009-08-12,FOMC Statement number 30,FOMC,421,-0.5,1,1,1,0,FOMC,FOMC
+2009-09-10,"Comments on ""Interpreting the Unconventional U.S. Monetary Policy of 2007-2009""",Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2009-09-23,FOMC Statement number 29,FOMC,447,-0.5,1,1,1,1,FOMC,FOMC
+2009-09-30,Central Bank Exit Policies,Vice Chairman Donald L. Kohn,1413,0.25,0,1,0,0,Generic,Donald L. Kohn
+2009-10-08,The Federal Reserve's Balance Sheet: An Update,Chairman Ben S. Bernanke,2000,0.25,0,1,0,0,Generic,Ben S. Bernanke
+2009-10-13,The Economic Outlook,Vice Chairman Donald L. Kohn,3280,-0.25,1,1,1,1,Generic,Donald L. Kohn
+2009-10-19,Asia and the Global Financial Crisis,Chairman Ben S. Bernanke,3041,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2009-11-04,FOMC Statement number 28,FOMC,474,0.0,1,1,1,1,FOMC,FOMC
+2009-11-16,On the Outlook for the Economy and Policy,Chairman Ben S. Bernanke,2741,-0.16666666666666666,1,0,1,1,Generic,Ben S. Bernanke
+2009-11-16,Policy Challenges for the Federal Reserve,Vice Chairman Donald L. Kohn,1000,0.0,0,1,0,0,Generic,Donald L. Kohn
+2009-12-07,Frequently Asked Questions,Chairman Ben S. Bernanke,3000,-0.3333333333333333,1,1,1,1,Generic,Ben S. Bernanke
+2009-12-10,Envisioning a Future for Housing Finance,Governor Elizabeth A. Duke,1000,0.0,1,0,1,1,Generic,Elizabeth A. Duke
+2010-01-03,Monetary Policy and the Housing Bubble,Chairman Ben S. Bernanke,3000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2010-01-03,"Monetary Policy in the Crisis: Past, Present, and Future",Vice Chairman Donald L. Kohn,3000,-0.16666666666666666,1,1,0,0,Generic,Donald L. Kohn
+2010-01-04,The Economic Outlook,Governor Elizabeth A. Duke,2845,-0.3333333333333333,1,1,1,1,Generic,Elizabeth A. Duke
+2010-01-27,FOMC Statement number 43,FOMC,549,0.0,1,1,1,1,FOMC,FOMC
+2010-01-29,Focusing on Bank Interest Rate Risk Exposure,Vice Chairman Donald L. Kohn,2307,0.0,0,1,0,0,Generic,Donald L. Kohn
+2010-02-18,Unusual and Exigent: My First Year at the Fed,Governor Elizabeth A. Duke,2000,-0.5,0,1,0,0,Generic,Elizabeth A. Duke
+2010-03-16,FOMC Statement number 42,FOMC,416,-0.5,1,1,1,1,FOMC,FOMC
+2010-03-24,Homework Assignments for Monetary Policymakers,Vice Chairman Donald L. Kohn,1000,0.0,1,0,0,0,Generic,Donald L. Kohn
+2010-03-26,An Ode to Independence,Governor Kevin Warsh,605,-0.5,0,1,0,0,Generic,Kevin Warsh
+2010-03-31,Restoring Credit to Communities,Governor Elizabeth A. Duke,1000,0.0,0,0,0,1,Generic,Elizabeth A. Duke
+2010-04-07,"Economic Challenges: Past, Present, and Future",Chairman Ben S. Bernanke,1000,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2010-04-08,The Economic Outlook,Vice Chairman Donald L. Kohn,4000,-0.125,0,1,1,1,Generic,Donald L. Kohn
+2010-04-08,The Present and Future of Community Banking,Governor Daniel K. Tarullo,1739,0.0,0,1,0,0,Generic,Daniel K. Tarullo
+2010-04-19,Issues in Economic Development,Governor Elizabeth A. Duke,2000,0.0,0,0,0,1,Generic,Elizabeth A. Duke
+2010-04-28,FOMC Statement number 41,FOMC,359,-0.5,1,1,1,1,FOMC,FOMC
+2010-05-11,Global Imbalances,Vice Chairman Donald L. Kohn,472,0.0,0,0,1,0,Generic,Donald L. Kohn
+2010-05-13,The Federal Reserve's Policy Actions during the Financial Crisis and Lessons for the Future,Vice Chairman Donald L. Kohn,1385,0.0,0,1,0,0,Generic,Donald L. Kohn
+2010-06-03,Brief Remarks,Chairman Ben S. Bernanke,1000,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2010-06-09,Fostering Workforce Development,Chairman Ben S. Bernanke,960,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2010-06-23,FOMC Statement number 39,FOMC,302,-0.5,1,1,1,1,FOMC,FOMC
+2010-06-28,It's Greek to Me,Governor Kevin Warsh,985,0.0,0,1,0,0,Generic,Kevin Warsh
+2010-07-12,Small Business Credit: Next Steps,Governor Elizabeth A. Duke,64,0.0,0,0,1,0,Generic,Elizabeth A. Duke
+2010-08-10,FOMC Statement number 38,FOMC,471,-0.5,0,1,0,1,FOMC,FOMC
+2010-08-27,The Economic Outlook and Monetary Policy,Chairman Ben S. Bernanke,6067,-0.2857142857142857,1,1,1,0,Generic,Ben S. Bernanke
+2010-09-21,FOMC Statement number 37,FOMC,463,-0.5,1,1,1,1,FOMC,FOMC
+2010-10-15,Monetary Policy Objectives and Tools in a Low-Inflation Environment,Chairman Ben S. Bernanke,4665,-0.1,1,1,0,1,Generic,Ben S. Bernanke
+2010-11-03,FOMC Statement number 36,FOMC,548,-1.0,1,1,1,1,FOMC,FOMC
+2010-11-08,Rejecting the Requiem,Governor Kevin Warsh,1000,1.0,0,0,1,0,Generic,Kevin Warsh
+2010-11-19,Emerging from the Crisis: Where Do We Stand?,Chairman Ben S. Bernanke,1000,-0.5,0,1,1,0,Generic,Ben S. Bernanke
+2010-11-19,Rebalancing the Global Recovery,Chairman Ben S. Bernanke,2000,0.0,0,1,1,0,Generic,Ben S. Bernanke
+2010-12-01,Fiscal Responsibility and Global Rebalancing,Vice Chair Janet L. Yellen,1000,0.5,1,1,1,1,Generic,Janet L. Yellen
+2010-12-02,Developments in the Landscape for Consumer Credit and Payments,Governor Elizabeth A. Duke,1000,0.0,0,1,0,0,Generic,Elizabeth A. Duke
+2010-12-14,FOMC Statement number 35,FOMC,540,-0.5,1,1,1,1,FOMC,FOMC
+2011-01-07,The Economic Outlook,Governor Elizabeth A. Duke,4476,-0.2,1,1,1,1,Generic,Elizabeth A. Duke
+2011-01-08,The Federal Reserve's Asset Purchase Program,Vice Chair Janet L. Yellen,3065,-0.5,1,1,0,1,Generic,Janet L. Yellen
+2011-01-26,FOMC Statement number 51,FOMC,462,-0.5,1,1,1,1,FOMC,FOMC
+2011-02-02,From Community Banker to Central Banker--My Journey,Governor Elizabeth A. Duke,1000,0.0,0,1,0,0,Generic,Elizabeth A. Duke
+2011-02-03,The Economic Outlook and Macroeconomic Policy,Chairman Ben S. Bernanke,1246,0.0,1,0,1,0,Generic,Ben S. Bernanke
+2011-02-11,Putting the Low Road Behind Us,Governor Sarah Bloom Raskin,964,0.0,1,0,1,1,Generic,Sarah Bloom Raskin
+2011-02-25,Unconventional Monetary Policy and Central Bank Communications,Vice Chair Janet L. Yellen,1271,0.0,0,1,0,0,Generic,Janet L. Yellen
+2011-03-02,Challenges for State and Local Governments,Chairman Ben S. Bernanke,191,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2011-03-15,FOMC Statement number 50,FOMC,490,-1.0,1,1,1,1,FOMC,FOMC
+2011-04-11,"Commodity Prices, the Economic Outlook, and Monetary Policy",Vice Chair Janet L. Yellen,5403,-0.16666666666666666,1,1,0,1,Generic,Janet L. Yellen
+2011-04-27,FOMC Press Conference number 1,CHAIRMAN BERNANKE,6151,-0.038461538461538464,1,1,1,1,Press Conference,Ben S. Bernanke
+2011-04-27,FOMC Statement number 49,FOMC,495,-1.0,1,1,1,1,FOMC,FOMC
+2011-04-29,Community Development in Challenging Times,Chairman Ben S. Bernanke,2988,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2011-05-06,Reaping the Full Benefits of Financial Openness,Vice Chair Janet L. Yellen,2000,0.0,1,0,1,0,Generic,Janet L. Yellen
+2011-05-16,Promoting Research and Development: The Government's Role,Chairman Ben S. Bernanke,2000,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2011-05-24,"Research, Policy, and the Future of Financial Education",Governor Elizabeth A. Duke,1000,0.0,1,0,1,1,Generic,Elizabeth A. Duke
+2011-06-07,The U.S. Economic Outlook,Chairman Ben S. Bernanke,3891,0.0,1,1,1,1,Generic,Ben S. Bernanke
+2011-06-09,Housing Market Developments and Their Effects on Low- and Moderate-Income Neighborhoods,Vice Chair Janet L. Yellen,1000,0.0,0,0,0,1,Generic,Janet L. Yellen
+2011-06-22,FOMC Press Conference number 2,CHAIRMAN BERNANKE,4000,-0.125,1,1,1,1,Press Conference,Ben S. Bernanke
+2011-06-22,FOMC Statement number 48,FOMC,497,0.0,1,1,1,1,FOMC,FOMC
+2011-08-09,FOMC Statement number 47,FOMC,598,-0.5,1,1,1,1,FOMC,FOMC
+2011-08-26,The Near- and Longer-Term Prospects for the U.S. Economy,Chairman Ben S. Bernanke,2000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2011-09-08,The U.S. Economic Outlook,Chairman Ben S. Bernanke,1000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2011-09-15,Opening Remarks,Chairman Ben S. Bernanke,431,0.0,1,0,1,1,Generic,Ben S. Bernanke
+2011-09-21,FOMC Statement number 46,FOMC,583,-0.5,1,1,1,1,FOMC,FOMC
+2011-09-26,Monetary Policy and Job Creation,Governor Sarah Bloom Raskin,4137,-0.3,1,1,1,1,Generic,Sarah Bloom Raskin
+2011-09-28,Lessons from Emerging Market Economies on the Sources of Sustained Growth,Chairman Ben S. Bernanke,2000,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2011-10-18,The Effects of the Great Recession on Central Bank Doctrine and Practice,Chairman Ben S. Bernanke,1000,0.0,0,1,0,0,Generic,Ben S. Bernanke
+2011-10-20,"Unemployment, the Labor Market, and the Economy",Governor Daniel K. Tarullo,5612,-0.25,0,0,1,1,Generic,Daniel K. Tarullo
+2011-10-21,The Outlook for the U.S. Economy and Economic Policy,Vice Chair Janet L. Yellen,4901,-0.2,1,1,1,1,Generic,Janet L. Yellen
+2011-11-02,FOMC Press Conference number 3,CHAIRMAN BERNANKE,3979,-0.1875,1,1,1,1,Press Conference,Ben S. Bernanke
+2011-11-02,FOMC Statement number 45,FOMC,500,0.0,1,1,1,1,FOMC,FOMC
+2011-11-10,Town Hall Meeting Remarks,Chairman Ben S. Bernanke,2572,0.0,0,0,0,1,Generic,Ben S. Bernanke
+2011-11-29,Aggregate Demand and the Global Economic Recovery,Vice Chair Janet L. Yellen,2597,-0.5,0,1,1,1,Generic,Janet L. Yellen
+2011-12-13,FOMC Statement number 44,FOMC,439,0.0,1,1,1,1,FOMC,FOMC
+2012-01-06,Community Bank Examination and Supervision amid Economic Recovery,Governor Sarah Bloom Raskin,1000,0.0,0,0,0,1,Generic,Sarah Bloom Raskin
+2012-01-06,"Economic Developments, Risks to the Outlook, and Housing Market Policies",Governor Elizabeth A. Duke,2000,0.0,0,0,1,1,Generic,Elizabeth A. Duke
+2012-01-16,From Community Banker to Central Banker--My Journey,Governor Elizabeth A. Duke,2000,0.0,1,1,0,0,Generic,Elizabeth A. Duke
+2012-01-25,FOMC Press Conference number 4,CHAIRMAN BERNANKE,5000,-0.15,1,1,1,1,Press Conference,Ben S. Bernanke
+2012-01-25,FOMC Statement number 59,FOMC,406,-0.5,1,1,1,1,FOMC,FOMC
+2012-02-16,Community Banking,Chairman Ben S. Bernanke,1000,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2012-03-01,Accommodative Monetary Policy and Its Effects on Savers,Governor Sarah Bloom Raskin,3243,-0.375,0,1,1,1,Generic,Sarah Bloom Raskin
+2012-03-13,FOMC Statement number 58,FOMC,419,0.0,1,1,1,1,FOMC,FOMC
+2012-03-26,Recent Developments in the Labor Market,Chairman Ben S. Bernanke,5174,-0.08333333333333333,0,0,1,1,Generic,Ben S. Bernanke
+2012-04-09,Fostering Financial Stability,Chairman Ben S. Bernanke,1000,0.0,1,0,1,1,Generic,Ben S. Bernanke
+2012-04-11,The Economic Outlook and Monetary Policy,Vice Chair Janet L. Yellen,5175,-0.25,1,1,1,1,Generic,Janet L. Yellen
+2012-04-12,Downturns and Recoveries: What the Economies in Los Angeles and the United States Tell Us,Governor Sarah Bloom Raskin,2000,0.0,0,1,1,1,Generic,Sarah Bloom Raskin
+2012-04-25,FOMC Press Conference number 5,CHAIRMAN BERNANKE,2922,-0.16666666666666666,1,1,1,1,Press Conference,Ben S. Bernanke
+2012-04-25,FOMC Statement number 57,FOMC,431,0.0,1,0,1,1,FOMC,FOMC
+2012-05-15,Prescriptions for Housing Recovery,Governor Elizabeth A. Duke,931,-0.5,0,0,1,0,Generic,Elizabeth A. Duke
+2012-06-06,Perspectives on Monetary Policy,Vice Chair Janet L. Yellen,6065,-0.21428571428571427,1,1,1,1,Generic,Janet L. Yellen
+2012-06-20,FOMC Press Conference number 6,CHAIRMAN BERNANKE,3000,-0.3333333333333333,1,1,1,1,Press Conference,Ben S. Bernanke
+2012-06-20,FOMC Statement number 56,FOMC,495,-0.5,1,1,1,1,FOMC,FOMC
+2012-08-01,FOMC Statement number 55,FOMC,439,0.0,1,1,1,1,FOMC,FOMC
+2012-08-31,Monetary Policy since the Onset of the Crisis,Chairman Ben S. Bernanke,3438,-0.25,0,1,0,1,Generic,Ben S. Bernanke
+2012-09-13,FOMC Press Conference number 7,CHAIRMAN BERNANKE,4477,-0.3333333333333333,1,1,1,1,Press Conference,Ben S. Bernanke
+2012-09-13,FOMC Statement number 54,FOMC,542,-1.0,1,1,1,1,FOMC,FOMC
+2012-10-01,Five Questions about the Federal Reserve and Monetary Policy,Chairman Ben S. Bernanke,4000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2012-10-11,Evaluating Large-Scale Asset Purchases,Governor Jeremy C. Stein,3000,-0.3333333333333333,0,1,0,0,Generic,Jeremy C. Stein
+2012-10-11,Japan in the Global Economy II,Vice Chair Janet L. Yellen,560,0.0,0,0,1,1,Generic,Janet L. Yellen
+2012-10-14,U.S. Monetary Policy and International Implications,Chairman Ben S. Bernanke,1980,-0.25,0,1,0,0,Generic,Ben S. Bernanke
+2012-10-24,FOMC Statement number 53,FOMC,557,-0.5,1,1,1,1,FOMC,FOMC
+2012-11-13,Revolution and Evolution in Central Bank Communications,Vice Chair Janet L. Yellen,4916,-0.2,1,1,0,1,Generic,Janet L. Yellen
+2012-11-15,Challenges in Housing and Mortgage Markets,Chairman Ben S. Bernanke,1000,0.0,0,1,0,0,Generic,Ben S. Bernanke
+2012-11-20,The Economic Recovery and Economic Policy,Chairman Ben S. Bernanke,4509,-0.3,0,1,1,1,Generic,Ben S. Bernanke
+2012-12-12,FOMC Press Conference number 8,CHAIRMAN BERNANKE,3729,-0.125,1,1,1,1,Press Conference,Ben S. Bernanke
+2012-12-12,FOMC Statement number 52,FOMC,725,-0.5,1,1,1,1,FOMC,FOMC
+2013-01-30,FOMC Statement number 67,FOMC,671,0.0,1,1,1,1,FOMC,FOMC
+2013-02-07,"Overheating in Credit Markets: Origins, Measurement, and Policy Responses",Governor Jeremy C. Stein,1000,0.0,0,1,0,0,Generic,Jeremy C. Stein
+2013-02-11,"A Painfully Slow Recovery for America's Workers: Causes, Implications, and the Federal Reserve's Response",Vice Chair Janet L. Yellen,4532,-0.5,1,1,0,1,Generic,Janet L. Yellen
+2013-02-22,"Discussion of ""Crunch Time: Fiscal Crises and the Role of Monetary Policy""",Governor Jerome H. Powell,1399,0.0,1,0,1,1,Generic,Jerome H. Powell
+2013-03-01,Long-Term Interest Rates,Chairman Ben S. Bernanke,4078,0.0,1,1,1,1,Generic,Ben S. Bernanke
+2013-03-04,Challenges Confronting Monetary Policy,Vice Chair Janet L. Yellen,5896,-0.4166666666666667,1,1,1,1,Generic,Janet L. Yellen
+2013-03-04,"Ending ""Too Big to Fail""",Governor Jerome H. Powell,1000,0.0,1,0,1,1,Generic,Jerome H. Powell
+2013-03-08,Comments on Housing and Mortgage Markets,Governor Elizabeth A. Duke,1000,0.0,0,1,0,0,Generic,Elizabeth A. Duke
+2013-03-20,FOMC Press Conference number 9,CHAIRMAN BERNANKE,2000,-0.125,1,1,1,1,Press Conference,Ben S. Bernanke
+2013-03-20,FOMC Statement number 66,FOMC,669,-0.5,1,1,1,1,FOMC,FOMC
+2013-03-22,Focusing on Low- and Moderate-Income Working Americans,Governor Sarah Bloom Raskin,3243,-0.125,0,0,0,1,Generic,Sarah Bloom Raskin
+2013-04-04,Communication in Monetary Policy,Vice Chair Janet L. Yellen,4000,-0.25,1,1,0,1,Generic,Janet L. Yellen
+2013-04-12,Creating Resilient Communities,Chairman Ben S. Bernanke,1000,0.0,0,0,1,1,Generic,Ben S. Bernanke
+2013-04-16,"Panel Discussion on ""Monetary Policy: Many Targets, Many Instruments. Where Do We Stand?""",Vice Chair Janet L. Yellen,1650,-0.25,0,1,1,1,Generic,Janet L. Yellen
+2013-04-18,Aspects of Inequality in the Recent Business Cycle,Governor Sarah Bloom Raskin,1000,0.0,0,0,0,1,Generic,Sarah Bloom Raskin
+2013-05-01,FOMC Statement number 65,FOMC,684,0.0,1,1,1,1,FOMC,FOMC
+2013-05-09,A View from the Federal Reserve Board: The Mortgage Market and Housing Conditions,Governor Elizabeth A. Duke,268,0.0,0,1,0,0,Generic,Elizabeth A. Duke
+2013-05-16,Prospects for a Stronger Recovery,Governor Sarah Bloom Raskin,3962,-0.25,1,0,1,1,Generic,Sarah Bloom Raskin
+2013-05-18,Economic Prospects for the Long Run,Chairman Ben S. Bernanke,1000,0.0,0,0,1,0,Generic,Ben S. Bernanke
+2013-06-19,FOMC Press Conference number 10,CHAIRMAN BERNANKE,4000,-0.1875,1,1,1,1,Press Conference,Ben S. Bernanke
+2013-06-19,FOMC Statement number 64,FOMC,693,-0.5,1,1,1,1,FOMC,FOMC
+2013-06-27,Thoughts on Unconventional Monetary Policy,Governor Jerome H. Powell,4000,-0.25,1,1,0,1,Generic,Jerome H. Powell
+2013-06-28,Comments on Monetary Policy,Governor Jeremy C. Stein,1261,0.0,0,1,0,0,Generic,Jeremy C. Stein
+2013-07-10,"A Century of U.S. Central Banking: Goals, Frameworks, Accountability",Chairman Ben S. Bernanke,2000,0.0,1,1,0,0,Generic,Ben S. Bernanke
+2013-07-31,FOMC Statement number 63,FOMC,719,-0.5,0,1,1,1,FOMC,FOMC
+2013-09-18,FOMC Press Conference number 11,CHAIRMAN BERNANKE,3500,-0.2857142857142857,1,1,1,1,Press Conference,Ben S. Bernanke
+2013-09-18,FOMC Statement number 62,FOMC,837,-0.5,1,1,1,1,FOMC,FOMC
+2013-09-26,Yield-Oriented Investors and the Monetary Transmission Mechanism,Governor Jeremy C. Stein,3097,-0.125,0,1,0,1,Generic,Jeremy C. Stein
+2013-10-11,Communications Challenges and Quantitative Easing,Governor Jerome H. Powell,259,-0.5,0,1,0,0,Generic,Jerome H. Powell
+2013-10-14,Celebrating 20 Years of the Bank of Mexico's Independence,Chairman Ben S. Bernanke,1000,0.0,1,0,0,0,Generic,Ben S. Bernanke
+2013-11-04,Advanced Economy Monetary Policy and Emerging Market Economies,Governor Jerome H. Powell,2211,0.0,1,1,1,1,Generic,Jerome H. Powell
+2013-11-19,Communication and Monetary Policy,Chairman Ben S. Bernanke,4673,-0.2,1,1,0,1,Generic,Ben S. Bernanke
+2013-12-16,Concluding Remarks,Chairman Ben S. Bernanke,928,0.0,1,0,1,1,Generic,Ben S. Bernanke
+2013-12-18,FOMC Press Conference number 12,CHAIRMAN BERNANKE,5042,-0.3181818181818182,1,1,1,1,Press Conference,Ben S. Bernanke
+2013-12-18,FOMC Statement number 60,FOMC,923,-0.5,1,1,1,1,FOMC,FOMC
+2014-01-03,"The Federal Reserve:  Looking Back, Looking Forward",Chairman Ben S. Bernanke,2483,0.0,0,1,1,1,Generic,Ben S. Bernanke
+2014-01-29,FOMC Statement number 75,FOMC,947,0.0,1,1,1,1,FOMC,FOMC
+2014-02-25,Monetary Policy and Financial Stability,Governor Daniel K. Tarullo,2206,0.0,0,1,0,0,Generic,Daniel K. Tarullo
+2014-03-19,FOMC Press Conference number 13,CHAIR YELLEN,3285,-0.2857142857142857,1,1,1,1,Press Conference,Janet L. Yellen
+2014-03-19,FOMC Statement number 74,FOMC,1011,-0.5,1,1,1,1,FOMC,FOMC
+2014-03-21,Incorporating Financial Stability Considerations into a Monetary Policy Framework,Governor Jeremy C. Stein,1000,0.0,0,1,0,0,Generic,Jeremy C. Stein
+2014-03-31,What the Federal Reserve Is Doing to Promote a Stronger Job Market,Chair Janet L. Yellen,3000,-0.3333333333333333,0,0,0,1,Generic,Janet L. Yellen
+2014-04-09,Longer-Term Challenges for the American Economy,Governor Daniel K. Tarullo,3000,0.0,0,0,1,1,Generic,Daniel K. Tarullo
+2014-04-16,Monetary Policy and the Economic Recovery,Chair Janet L. Yellen,4684,-0.1,1,1,0,1,Generic,Janet L. Yellen
+2014-04-30,FOMC Statement number 73,FOMC,916,-0.5,1,1,1,1,FOMC,FOMC
+2014-05-06,Challenges for Monetary Policy Communication,Governor Jeremy C. Stein,1000,0.0,0,1,0,0,Generic,Jeremy C. Stein
+2014-05-15,Small Businesses and the Recovery,Chair Janet L. Yellen,604,0.0,0,0,1,1,Generic,Janet L. Yellen
+2014-06-18,FOMC Press Conference number 14,CHAIR YELLEN,3735,-0.0625,1,1,1,1,Press Conference,Janet L. Yellen
+2014-06-18,FOMC Statement number 72,FOMC,900,-1.0,1,1,1,1,FOMC,FOMC
+2014-07-30,FOMC Statement number 71,FOMC,885,-0.5,1,1,1,1,FOMC,FOMC
+2014-08-11,The Great Recession: Moving Ahead,Vice Chairman Stanley Fischer,3684,-0.125,0,1,1,0,Generic,Stanley Fischer
+2014-08-22,Labor Market Dynamics and Monetary Policy,Chair Janet L. Yellen,4295,-0.1,0,1,0,1,Generic,Janet L. Yellen
+2014-09-04,Reforming U.S. Dollar LIBOR:  The Path Forward,Governor Jerome H. Powell,2000,0.0,0,1,0,0,Generic,Jerome H. Powell
+2014-09-17,FOMC Press Conference number 15,CHAIR YELLEN,4500,-0.16666666666666666,1,1,1,1,Press Conference,Janet L. Yellen
+2014-09-17,FOMC Statement number 70,FOMC,888,-0.5,1,1,1,1,FOMC,FOMC
+2014-10-11,The Federal Reserve and the Global Economy,Vice Chairman Stanley Fischer,2000,-0.25,0,1,0,0,Generic,Stanley Fischer
+2014-10-29,FOMC Statement number 69,FOMC,726,0.0,1,1,1,1,FOMC,FOMC
+2014-11-07,"Remarks at the Panel Discussion on ""Shaping the Future of the Macroeconomic Policy Mix""",Chair Janet L. Yellen,1623,0.0,0,1,0,1,Generic,Janet L. Yellen
+2014-11-14,"Monetary Policy Accommodation, Risk-Taking, and Spillovers",Governor Jerome H. Powell,1633,0.0,0,1,0,0,Generic,Jerome H. Powell
+2014-12-17,FOMC Press Conference number 16,CHAIR YELLEN,3500,0.0,1,1,1,1,Press Conference,Janet L. Yellen
+2014-12-17,FOMC Statement number 68,FOMC,842,-0.5,1,0,1,1,FOMC,FOMC
+2015-01-28,FOMC Statement number 83,FOMC,651,-0.5,1,1,1,1,FOMC,FOMC
+2015-02-27,Conducting Monetary Policy with a Large Balance Sheet,Vice Chairman Stanley Fischer,1779,0.25,0,1,0,0,Generic,Stanley Fischer
+2015-03-18,FOMC Press Conference number 17,CHAIR YELLEN,3500,-0.2857142857142857,1,1,1,1,Press Conference,Janet L. Yellen
+2015-03-18,FOMC Statement number 82,FOMC,642,0.0,1,1,1,1,FOMC,FOMC
+2015-03-23,Monetary Policy Lessons and the Way Ahead,Vice Chairman Stanley Fischer,3745,0.25,0,1,0,0,Generic,Stanley Fischer
+2015-03-27,Normalizing Monetary Policy:  Prospects and Perspectives,Chair Janet L. Yellen,5000,0.0,1,1,0,1,Generic,Janet L. Yellen
+2015-04-02,Coming of Age in the Great Recession,Governor Lael Brainard,3485,0.0,0,0,0,1,Generic,Lael Brainard
+2015-04-08,Remarks on Monetary Policy,Governor Jerome H. Powell,2142,0.0,0,1,0,1,Generic,Jerome H. Powell
+2015-04-29,FOMC Statement number 81,FOMC,623,-0.5,1,1,1,1,FOMC,FOMC
+2015-05-06,Finance and Society,Chair Janet L. Yellen,1000,0.0,0,0,1,1,Generic,Janet L. Yellen
+2015-05-21,"Past, Present, and Future Challenges for the Euro Area",Vice Chairman Stanley Fischer,156,0.0,1,0,1,1,Generic,Stanley Fischer
+2015-05-22,The Outlook for the Economy,Chair Janet L. Yellen,3853,0.0,1,1,1,1,Generic,Janet L. Yellen
+2015-05-26,The Federal Reserve and the Global Economy,Vice Chairman Stanley Fischer,2000,0.0,0,1,0,0,Generic,Stanley Fischer
+2015-06-02,The U.S. Economic Outlook and Implications for Monetary Policy,Governor Lael Brainard,3652,-0.5,1,1,1,1,Generic,Lael Brainard
+2015-06-17,FOMC Press Conference number 18,CHAIR YELLEN,4500,-0.05555555555555555,1,1,1,1,Press Conference,Janet L. Yellen
+2015-06-17,FOMC Statement number 80,FOMC,598,0.0,1,1,1,1,FOMC,FOMC
+2015-06-30,Monetary Policy in the United States and in Developing Countries,Vice Chairman Stanley Fischer,3000,0.16666666666666666,1,1,1,1,Generic,Stanley Fischer
+2015-07-09,Dodd-Frank at Five: Assessing Progress on Too Big to Fail,Governor Lael Brainard,49,0.0,1,0,1,1,Generic,Lael Brainard
+2015-07-10,Recent Developments and the Outlook for the Economy,Chair Janet L. Yellen,5192,-0.16666666666666666,1,1,1,1,Generic,Janet L. Yellen
+2015-07-29,FOMC Statement number 79,FOMC,593,-0.5,1,0,1,1,FOMC,FOMC
+2015-08-29,U.S. Inflation Developments,Vice Chairman Stanley Fischer,3182,-0.25,1,1,0,0,Generic,Stanley Fischer
+2015-09-17,FOMC Press Conference number 19,CHAIR YELLEN,5000,-0.25,1,1,1,1,Press Conference,Janet L. Yellen
+2015-09-17,FOMC Statement number 78,FOMC,619,0.5,1,1,0,1,FOMC,FOMC
+2015-09-24,Inflation Dynamics and Monetary Policy,Chair Janet L. Yellen,6575,-0.21428571428571427,1,1,0,1,Generic,Janet L. Yellen
+2015-10-11,U.S. Economy and Monetary Policy,Vice Chairman Stanley Fischer,1412,-0.5,0,1,1,1,Generic,Stanley Fischer
+2015-10-12,Economic Outlook and Monetary Policy,Governor Lael Brainard,3944,-0.25,1,1,1,1,Generic,Lael Brainard
+2015-10-19,Identifying Opportunities for Reducing Regulatory Burdens on Community Banks,Governor Lael Brainard,1000,0.0,1,0,1,1,Generic,Lael Brainard
+2015-10-28,FOMC Statement number 77,FOMC,609,0.0,1,0,1,1,FOMC,FOMC
+2015-11-04,Central Bank Independence,Vice Chairman Stanley Fischer,2000,0.0,0,1,0,0,Generic,Stanley Fischer
+2015-11-06,Unconventional Monetary Policy and Cross-Border Spillovers,Governor Lael Brainard,1000,0.0,0,1,0,0,Generic,Lael Brainard
+2015-11-12,The Transmission of Exchange Rate Changes to Output and Inflation,Vice Chairman Stanley Fischer,1616,-0.25,1,1,1,0,Generic,Stanley Fischer
+2015-11-19,Emerging Asia in Transition,Vice Chairman Stanley Fischer,2973,0.0,0,0,1,0,Generic,Stanley Fischer
+2015-12-01,Normalizing Monetary Policy When the Neutral Interest Rate Is Low,Governor Lael Brainard,3961,-0.125,1,1,1,1,Generic,Lael Brainard
+2015-12-02,The Economic Outlook and Monetary Policy,Chair Janet L. Yellen,4280,-0.2,1,1,1,1,Generic,Janet L. Yellen
+2015-12-16,FOMC Press Conference number 20,CHAIR YELLEN,5080,0.045454545454545456,1,1,1,1,Press Conference,Janet L. Yellen
+2015-12-16,FOMC Statement number 76,FOMC,644,0.0,1,1,1,1,FOMC,FOMC
+2016-02-01,Recent Monetary Policy,Vice Chairman Stanley Fischer,1000,0.0,0,1,0,0,Generic,Stanley Fischer
+2016-02-23,Recent Monetary Policy Developments,Vice Chairman Stanley Fischer,2000,0.0,1,1,0,0,Generic,Stanley Fischer
+2016-02-26,"Discussion of the paper ""Language after Liftoff: Fed Communication Away from the Zero Lower Bound""",Governor Jerome H. Powell,1000,0.0,0,1,0,0,Generic,Jerome H. Powell
+2016-02-26,What Happened to the Great Divergence?,Governor Lael Brainard,1000,0.0,0,1,0,0,Generic,Lael Brainard
+2016-03-07,"An Update on the Outlook, Liquidity, and Resilience",Governor Lael Brainard,2000,-0.25,1,0,0,0,Generic,Lael Brainard
+2016-03-16,FOMC Press Conference number 21,CHAIR YELLEN,4927,-0.05,1,1,1,1,Press Conference,Janet L. Yellen
+2016-03-16,FOMC Statement number 90,FOMC,591,0.0,1,1,1,1,FOMC,FOMC
+2016-03-29,"The Outlook, Uncertainty, and Monetary Policy",Chair Janet L. Yellen,4209,-0.1,1,1,0,1,Generic,Janet L. Yellen
+2016-04-27,FOMC Statement number 89,FOMC,593,0.0,1,1,1,1,FOMC,FOMC
+2016-05-26,"Recent Economic Developments, the Productive Potential of the Economy, and Monetary Policy",Governor Jerome H. Powell,3000,0.16666666666666666,1,1,0,1,Generic,Jerome H. Powell
+2016-06-03,The Economic Outlook and Implications for Monetary Policy,Governor Lael Brainard,2962,-0.16666666666666666,1,1,1,1,Generic,Lael Brainard
+2016-06-06,Current Conditions and the Outlook for the U.S. Economy,Chair Janet L. Yellen,4622,-0.1,1,1,1,1,Generic,Janet L. Yellen
+2016-06-15,FOMC Press Conference number 22,CHAIR YELLEN,5500,-0.045454545454545456,1,1,1,1,Press Conference,Janet L. Yellen
+2016-06-15,FOMC Statement number 88,FOMC,581,0.5,1,1,1,1,FOMC,FOMC
+2016-06-28,"Recent Economic Developments, Monetary Policy Considerations and Longer-term Prospects",Governor Jerome H. Powell,2205,-0.3333333333333333,1,1,1,1,Generic,Jerome H. Powell
+2016-07-27,FOMC Statement number 87,FOMC,581,0.0,1,1,1,1,FOMC,FOMC
+2016-08-21,Remarks on the U.S. Economy,Vice Chairman Stanley Fischer,1904,-0.5,1,1,0,1,Generic,Stanley Fischer
+2016-08-26,"The Federal Reserve's Monetary Policy Toolkit: Past, Present, and Future",Chair Janet L. Yellen,4681,-0.1,0,1,0,0,Generic,Janet L. Yellen
+2016-09-12,"The ""New Normal"" and What It Means for Monetary Policy",Governor Lael Brainard,3888,-0.375,1,1,1,1,Generic,Lael Brainard
+2016-09-21,FOMC Press Conference number 23,CHAIR YELLEN,4731,-0.2,1,1,1,1,Press Conference,Janet L. Yellen
+2016-09-21,FOMC Statement number 86,FOMC,618,0.0,1,1,1,1,FOMC,FOMC
+2016-09-29,Trends in Community Bank Performance over the Past 20 Years,Governor Jerome H. Powell,915,0.0,0,1,0,0,Generic,Jerome H. Powell
+2016-10-05,Low Interest Rates,Vice Chairman Stanley Fischer,1000,0.0,0,1,0,0,Generic,Stanley Fischer
+2016-10-09,The U.S. Economy and Monetary Policy,Vice Chairman Stanley Fischer,1829,0.25,1,1,0,1,Generic,Stanley Fischer
+2016-10-14,Macroeconomic Research After the Crisis,Chair Janet L. Yellen,1000,0.0,1,0,0,0,Generic,Janet L. Yellen
+2016-10-17,Why Are Interest Rates So Low? Causes and Implications,Vice Chairman Stanley Fischer,2957,0.0,0,1,0,0,Generic,Stanley Fischer
+2016-11-02,FOMC Statement number 85,FOMC,609,0.0,1,1,1,1,FOMC,FOMC
+2016-11-04,The Economic Outlook,Vice Chairman Stanley Fischer,923,-0.5,0,0,0,1,Generic,Stanley Fischer
+2016-11-11,U.S. Monetary Policy from an International Perspective,Vice Chairman Stanley Fischer,3000,-0.16666666666666666,1,1,1,1,Generic,Stanley Fischer
+2016-11-17,"The ""Gig"" Economy: Implications of the Growth of Contingent Work",Governor Lael Brainard,3274,0.0,0,0,0,1,Generic,Lael Brainard
+2016-11-18,The Global Trade Slowdown and Its Implications for Emerging Asia,Governor Jerome H. Powell,1000,0.0,0,0,1,0,Generic,Jerome H. Powell
+2016-11-21,Longer-Term Challenges for the U.S. Economy,Vice Chairman Stanley Fischer,1143,-0.5,0,1,1,0,Generic,Stanley Fischer
+2016-11-29,Recent Economic Developments and Longer-Run Challenges,Governor Jerome H. Powell,4000,-0.25,1,0,1,1,Generic,Jerome H. Powell
+2016-11-30,A View from the Fed,Governor Jerome H. Powell,2155,0.0,0,1,0,0,Generic,Jerome H. Powell
+2016-12-14,FOMC Press Conference number 24,CHAIR YELLEN,2233,0.1,1,1,1,1,Press Conference,Janet L. Yellen
+2016-12-14,FOMC Statement number 84,FOMC,572,0.0,1,1,1,1,FOMC,FOMC
+2016-12-19,Commencement Remarks,Chair Janet L. Yellen,1000,0.0,0,0,0,1,Generic,Janet L. Yellen
+2017-01-07,Low Interest Rates and the Financial System,Governor Jerome H. Powell,1134,-0.25,1,1,0,1,Generic,Jerome H. Powell
+2017-01-17,Monetary Policy in a Time of Uncertainty,Governor Lael Brainard,2386,0.16666666666666666,1,1,1,1,Generic,Lael Brainard
+2017-01-18,The Goals of Monetary Policy and How We Pursue Them,Chair Janet L. Yellen,2493,-0.16666666666666666,1,1,0,1,Generic,Janet L. Yellen
+2017-01-19,The Economic Outlook and the Conduct of Monetary Policy,Chair Janet L. Yellen,4793,0.0,1,1,0,0,Generic,Janet L. Yellen
+2017-02-01,FOMC Statement number 99,FOMC,531,-0.5,1,1,1,1,FOMC,FOMC
+2017-02-11,"""I'd Rather Have Bob Solow Than an Econometric Model, But ...""",Vice Chairman Stanley Fischer,2000,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-02-22,The Economic Outlook and Monetary Policy,Governor Jerome H. Powell,4863,0.1,1,1,1,1,Generic,Jerome H. Powell
+2017-03-01,Transitions in the Outlook and Monetary Policy,Governor Lael Brainard,3896,0.125,1,1,1,1,Generic,Lael Brainard
+2017-03-03,From Adding Accommodation to Scaling It Back,Chair Janet L. Yellen,4662,-0.1,1,1,1,1,Generic,Janet L. Yellen
+2017-03-15,FOMC Press Conference number 25,CHAIR YELLEN,3994,0.0,1,1,1,1,Press Conference,Janet L. Yellen
+2017-03-15,FOMC Statement number 98,FOMC,532,-0.5,1,1,1,1,FOMC,FOMC
+2017-03-23,Welcoming Remarks,Chair Janet L. Yellen,637,0.0,0,0,1,1,Generic,Janet L. Yellen
+2017-03-28,Addressing Workforce Development Challenges in Low-Income Communities,Chair Janet L. Yellen,1921,0.0,0,0,0,1,Generic,Janet L. Yellen
+2017-04-17,Monetary Policy Expectations and Surprises,Vice Chairman Stanley Fischer,450,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-04-19,International Effects of Recent Policy Tightening,Vice Chairman Stanley Fischer,1346,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-05-03,FOMC Statement number 97,FOMC,563,0.0,1,1,1,1,FOMC,FOMC
+2017-05-05,Committee Decisions and Monetary Policy Rules,Vice Chairman Stanley Fischer,1127,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-05-05,So We All Can Succeed: 125 Years of Women's Participation in the Economy,Chair Janet L. Yellen,2000,0.0,0,0,0,1,Generic,Janet L. Yellen
+2017-05-22,Why Opportunity and Inclusion Matter to Americaâs Economic Strength,Governor Lael Brainard,2256,0.0,1,0,0,1,Generic,Lael Brainard
+2017-05-30,Navigating the Different Signals from Inflation and Unemployment,Governor Lael Brainard,4337,0.0,1,1,1,1,Generic,Lael Brainard
+2017-06-01,Thoughts on the Normalization of Monetary Policy,Governor Jerome H. Powell,3000,0.16666666666666666,1,1,1,0,Generic,Jerome H. Powell
+2017-06-14,FOMC Press Conference number 26,CHAIR YELLEN,3037,-0.14285714285714285,1,1,1,1,Press Conference,Janet L. Yellen
+2017-06-14,FOMC Statement number 96,FOMC,575,0.5,1,1,1,1,FOMC,FOMC
+2017-07-06,Government Policy and Labor Productivity,Vice Chairman Stanley Fischer,2000,0.0,0,0,1,1,Generic,Stanley Fischer
+2017-07-11,Cross-Border Spillovers of Balance Sheet Normalization,Governor Lael Brainard,2000,0.0,0,1,0,0,Generic,Lael Brainard
+2017-07-13,Cross-Border Spillovers of Balance Sheet Normalization,Governor Lael Brainard,3000,0.0,1,1,0,0,Generic,Lael Brainard
+2017-07-26,FOMC Statement number 95,FOMC,547,0.5,1,1,1,1,FOMC,FOMC
+2017-07-31,The Low Level of Global Real Interest Rates,Vice Chairman Stanley Fischer,2402,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-09-05,Understanding the Disconnect between Employment and Inflation with a Low Neutral Rate,Governor Lael Brainard,3654,-0.375,1,1,0,0,Generic,Lael Brainard
+2017-09-20,FOMC Press Conference number 27,CHAIR YELLEN,5114,0.09090909090909091,1,1,1,1,Press Conference,Janet L. Yellen
+2017-09-26,"Inflation, Uncertainty, and Monetary Policy",Chair Janet L. Yellen,6000,-0.25,1,0,0,1,Generic,Janet L. Yellen
+2017-09-26,Why Persistent Employment Disparities Matter for the Economy's Health,Governor Lael Brainard,4000,-0.125,1,0,0,1,Generic,Lael Brainard
+2017-09-27,Labor Market Disparities and Economic Performance,Governor Lael Brainard,1982,0.0,0,0,0,1,Generic,Lael Brainard
+2017-09-28,The Independent Bank of England--20 Years On,Vice Chairman Stanley Fischer,2000,0.0,0,1,0,0,Generic,Stanley Fischer
+2017-10-12,Prospects for Emerging Market Economies in a Normalizing Global Economy,Governor Jerome H. Powell,1000,0.0,0,0,1,0,Generic,Jerome H. Powell
+2017-10-12,Rethinking Monetary Policy in a New Normal,Governor Lael Brainard,3524,0.125,1,1,0,0,Generic,Lael Brainard
+2017-10-15,The U.S. Economy and Monetary Policy,Chair Janet L. Yellen,1911,0.0,1,1,0,1,Generic,Janet L. Yellen
+2017-10-20,A Challenging Decade and a Question for the Future,Chair Janet L. Yellen,2710,0.0,0,1,0,0,Generic,Janet L. Yellen
+2017-11-01,FOMC Statement number 93,FOMC,551,0.0,1,1,1,1,FOMC,FOMC
+2017-12-13,FOMC Press Conference number 28,CHAIR YELLEN,3408,0.0,1,1,1,1,Press Conference,Janet L. Yellen
+2017-12-13,FOMC Statement number 92,FOMC,504,0.5,1,1,1,1,FOMC,FOMC
+2017-12-13,Workforce Development in Today's Economy,Governor Lael Brainard,1522,0.0,0,0,0,1,Generic,Lael Brainard
+2018-01-31,FOMC Statement number 107,FOMC,450,-0.5,1,1,1,1,FOMC,FOMC
+2018-02-22,The U.S. Economy after the Global Financial Crisis,Vice Chairman for Supervision Randal K. Quarles,1371,0.25,1,1,0,0,Generic,Randal K. Quarles
+2018-02-26,An Assessment of the U.S. Economy,Vice Chairman for Supervision Randal K. Quarles,3835,-0.25,1,1,1,1,Generic,Randal K. Quarles
+2018-03-06,Navigating Monetary Policy as Headwinds Shift to Tailwinds,Governor Lael Brainard,1834,-0.25,1,1,0,1,Generic,Lael Brainard
+2018-03-21,FOMC Press Conference number 29,CHAIRMAN POWELL,3500,0.14285714285714285,1,1,1,1,Press Conference,Jerome H. Powell
+2018-03-21,FOMC Statement number 106,FOMC,474,0.5,1,1,1,1,FOMC,FOMC
+2018-04-06,The Outlook for the U.S. Economy,Chairman Jerome H. Powell,4000,-0.125,1,1,1,1,Generic,Jerome H. Powell
+2018-05-02,FOMC Statement number 105,FOMC,449,-0.5,1,1,1,1,FOMC,FOMC
+2018-05-04,Liquidity Regulation and the Size of the Fed's Balance Sheet,Vice Chairman for Supervision Randal K. Quarles,823,0.0,0,1,0,0,Generic,Randal K. Quarles
+2018-05-08,Monetary Policy Influences on Global Financial Conditions and International Capital Flows,Chairman Jerome H. Powell,492,0.0,0,1,0,0,Generic,Jerome H. Powell
+2018-05-31,Sustaining Full Employment and Inflation around Target,Governor Lael Brainard,3000,0.0,0,1,0,1,Generic,Lael Brainard
+2018-06-13,FOMC Press Conference number 30,CHAIRMAN POWELL,6137,-0.038461538461538464,1,1,1,1,Press Conference,Jerome H. Powell
+2018-06-13,FOMC Statement number 104,FOMC,331,0.5,1,1,1,1,FOMC,FOMC
+2018-06-20,Monetary Policy at a Time of Uncertainty and Tight Labor Markets,Chairman Jerome H. Powell,1644,0.25,1,0,0,1,Generic,Jerome H. Powell
+2018-08-01,FOMC Statement number 103,FOMC,318,0.5,1,1,1,1,FOMC,FOMC
+2018-08-24,Monetary Policy in a Changing Economy,Chairman Jerome H. Powell,3265,0.125,1,1,1,1,Generic,Jerome H. Powell
+2018-09-12,What Do We Mean by Neutral and What Role Does It Play in Monetary Policy?,Governor Lael Brainard,3208,0.375,1,1,1,1,Generic,Lael Brainard
+2018-09-26,FOMC Press Conference number 31,CHAIRMAN POWELL,1275,0.16666666666666666,1,1,1,1,Press Conference,Jerome H. Powell
+2018-09-26,FOMC Statement number 102,FOMC,293,0.5,1,1,1,1,FOMC,FOMC
+2018-09-27,Brief Remarks on the U.S. Economy,Chairman Jerome H. Powell,575,-0.5,0,1,1,1,Generic,Jerome H. Powell
+2018-10-02,Monetary Policy and Risk Management at a Time of Low Inflation and Low Unemployment,Chairman Jerome H. Powell,4127,0.0,1,1,0,1,Generic,Jerome H. Powell
+2018-10-18,Donât Chase the Needles: An Optimistic Assessment of the Economic Outlook and Monetary Policy,Vice Chairman for Supervision Randal K. Quarles,1080,0.0,1,1,0,0,Generic,Randal K. Quarles
+2018-10-25,Outlook for the U.S. Economy and Monetary Policy,Vice Chairman Richard H. Clarida,2852,0.16666666666666666,1,1,1,1,Generic,Richard H. Clarida
+2018-11-08,FOMC Statement number 101,FOMC,307,0.0,1,1,1,1,FOMC,FOMC
+2018-11-27,Data Dependence and U.S. Monetary Policy,Vice Chairman Richard H. Clarida,2379,-0.3333333333333333,1,1,1,1,Generic,Richard H. Clarida
+2018-12-03,Celebrating Excellence in Community Development,Chairman Jerome H. Powell,933,-0.5,0,0,1,1,Generic,Jerome H. Powell
+2018-12-05,Banks as Vital Infrastructure for Rural Communities of the West,Vice Chairman for Supervision Randal K. Quarles,1000,0.0,0,0,1,0,Generic,Randal K. Quarles
+2018-12-06,Welcoming Remarks,Chairman Jerome H. Powell,1000,0.0,0,0,0,1,Generic,Jerome H. Powell
+2018-12-07,Assessing Financial Stability over the Cycle,Governor Lael Brainard,1000,0.0,0,0,0,1,Generic,Lael Brainard
+2018-12-19,FOMC Press Conference number 32,CHAIRMAN POWELL,4401,-0.05555555555555555,1,1,1,1,Press Conference,Jerome H. Powell
+2018-12-19,FOMC Statement number 100,FOMC,337,0.5,1,1,1,1,FOMC,FOMC
+2019-01-10,Monetary Policy Outlook for 2019,Vice Chairman Richard H. Clarida,2000,0.0,1,1,0,0,Generic,Richard H. Clarida
+2019-01-30,FOMC Press Conference number 33,CHAIRMAN POWELL,1145,-0.16666666666666666,1,1,1,1,Press Conference,Jerome H. Powell
+2019-01-30,FOMC Statement number 116,FOMC,334,0.0,1,1,1,1,FOMC,FOMC
+2019-02-12,Encouraging Economic Development in High-Poverty Rural Communities,Chairman Jerome H. Powell,1000,0.0,0,0,0,1,Generic,Jerome H. Powell
+2019-02-22,"The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",Vice Chair Richard H. Clarida,1000,0.0,1,0,0,1,Generic,Richard H. Clarida
+2019-02-22,The Future of the Federal Reserve's Balance Sheet,Vice Chairman for Supervision Randal K. Quarles,1693,0.0,0,1,0,0,Generic,Randal K. Quarles
+2019-02-28,Recent Economic Developments and Longer-Term Challenges,Chair Jerome H. Powell,2785,0.0,0,0,1,1,Generic,Jerome H. Powell
+2019-02-28,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1100,-0.25,1,0,0,1,Generic,Richard H. Clarida
+2019-03-07,Navigating Cautiously,Governor Lael Brainard,4000,0.0,1,1,1,0,Generic,Lael Brainard
+2019-03-08,Monetary Policy: Normalization and the Road Ahead,Chair Jerome H. Powell,1936,-0.25,0,1,0,0,Generic,Jerome H. Powell
+2019-03-20,FOMC Press Conference number 34,CHAIRMAN POWELL,3835,-0.1875,1,1,1,1,Press Conference,Jerome H. Powell
+2019-03-20,FOMC Statement number 115,FOMC,354,-0.5,1,1,1,1,FOMC,FOMC
+2019-03-29,Frameworks for the Countercyclical Capital Buffer,Vice Chair for Supervision Randal K. Quarles,2000,0.25,1,0,0,0,Generic,Randal K. Quarles
+2019-04-09,"The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",Vice Chair Richard H. Clarida,2000,0.0,0,0,0,1,Generic,Richard H. Clarida
+2019-04-10,Progress on the Transition to Risk-Free Rates,Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles,846,0.0,0,1,0,0,Generic,Randal K. Quarles
+2019-04-11,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,945,-0.5,1,0,1,1,Generic,Richard H. Clarida
+2019-05-01,FOMC Press Conference number 35,CHAIRMAN POWELL,3069,0.0,1,1,1,1,Press Conference,Jerome H. Powell
+2019-05-01,FOMC Statement number 114,FOMC,326,0.0,1,1,1,1,FOMC,FOMC
+2019-05-03,"Models, Markets, and Monetary Policy",Vice Chair Richard H. Clarida,2815,0.0,0,1,0,0,Generic,Richard H. Clarida
+2019-05-08,"""Fed Listens"" in Richmond: How Does Monetary Policy Affect Your Community?",Governor Lael Brainard,1000,0.0,0,1,0,0,Generic,Lael Brainard
+2019-05-09,Welcoming Remarks,Chair Jerome H. Powell,869,0.0,0,0,1,1,Generic,Jerome H. Powell
+2019-05-10,Is the Middle Class within Reach for Middle-Income Families?,Governor Lael Brainard,2564,0.0,0,0,0,1,Generic,Lael Brainard
+2019-05-16,The Disconnect between Inflation and Employment in the New Normal,Governor Lael Brainard,3385,-0.25,1,1,0,0,Generic,Lael Brainard
+2019-05-30,Sustaining Maximum Employment and Price Stability,Vice Chair Richard H. Clarida,2000,0.0,1,1,0,0,Generic,Richard H. Clarida
+2019-06-04,Opening Remarks,Chair Jerome H. Powell,2000,-0.25,1,1,1,1,Generic,Jerome H. Powell
+2019-06-19,FOMC Press Conference number 36,CHAIRMAN POWELL,2500,-0.2,1,1,1,1,Press Conference,Jerome H. Powell
+2019-06-19,FOMC Statement number 113,FOMC,343,-0.5,1,1,1,1,FOMC,FOMC
+2019-06-21,Fed Listens in Cincinnati: How Does Monetary Policy Affect Your Community?,Governor Lael Brainard,1833,-0.25,1,1,0,1,Generic,Lael Brainard
+2019-06-25,Economic Outlook and Monetary Policy Review,Chair Jerome H. Powell,575,-0.5,1,0,0,0,Generic,Jerome H. Powell
+2019-07-01,"The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",Vice Chair Richard H. Clarida,1000,-0.5,0,0,0,1,Generic,Richard H. Clarida
+2019-07-16,Monetary Policy in the Post-Crisis Era,Chair Jerome H. Powell,2000,-0.25,1,1,1,1,Generic,Jerome H. Powell
+2019-07-31,FOMC Press Conference number 37,CHAIRMAN POWELL,4070,-0.2777777777777778,1,1,1,1,Press Conference,Jerome H. Powell
+2019-07-31,FOMC Statement number 112,FOMC,388,-0.5,1,1,1,1,FOMC,FOMC
+2019-08-23,Challenges for Monetary Policy,Chair Jerome H. Powell,2750,0.0,1,1,0,1,Generic,Jerome H. Powell
+2019-09-18,FOMC Press Conference number 38,CHAIRMAN POWELL,3271,-0.14285714285714285,1,1,1,1,Press Conference,Jerome H. Powell
+2019-09-18,FOMC Statement number 111,FOMC,357,0.0,1,1,1,1,FOMC,FOMC
+2019-09-26,"The Federal Reserveâs Review of Its Monetary Policy Strategy, Tools, and Communication Practices",Vice Chair Richard H. Clarida,2000,0.0,0,1,0,1,Generic,Richard H. Clarida
+2019-10-01,Introductory Remarks,Vice Chair Richard H. Clarida,594,0.0,1,0,0,1,Generic,Richard H. Clarida
+2019-10-08,Data-Dependent Monetary Policy in an Evolving Economy,Chair Jerome H. Powell,1804,-0.25,0,1,1,1,Generic,Jerome H. Powell
+2019-10-11,FOMC Statement number 110,FOMC,261,0.0,0,1,0,0,FOMC,FOMC
+2019-10-18,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1200,0.0,0,1,0,1,Generic,Richard H. Clarida
+2019-10-30,FOMC Press Conference number 39,CHAIRMAN POWELL,3000,-0.08333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2019-10-30,FOMC Statement number 109,FOMC,336,-0.5,1,1,1,1,FOMC,FOMC
+2019-11-01,Friedrich Hayek and the Price System,Vice Chair for Supervision Randal K. Quarles,1124,-0.25,0,1,0,0,Generic,Randal K. Quarles
+2019-11-01,"The United States, Japan, and the Global Economy",Vice Chair Richard H. Clarida,1659,0.0,1,1,1,1,Generic,Richard H. Clarida
+2019-11-12,"Monetary Policy, Price Stability, and Equilibrium Bond Yields: Success and Consequences",Vice Chair Richard H. Clarida,3740,0.0,1,1,0,0,Generic,Richard H. Clarida
+2019-11-14,"The Federal Reserveâs Review of Its Monetary Policy Strategy, Tools, and Communication Practices",Vice Chair Richard H. Clarida,2000,0.0,1,1,0,1,Generic,Richard H. Clarida
+2019-11-25,Building on the Gains from the Long Expansion,Chair Jerome H. Powell,2760,-0.3333333333333333,1,1,1,1,Generic,Jerome H. Powell
+2019-11-26,"Federal Reserve Review of Monetary Policy Strategy, Tools, and Communications: Some Preliminary Views",Governor Lael Brainard,2733,-0.3333333333333333,1,1,1,1,Generic,Lael Brainard
+2019-12-11,FOMC Press Conference number 40,CHAIRMAN POWELL,3000,-0.3333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2019-12-11,FOMC Statement number 108,FOMC,325,0.0,1,1,1,1,FOMC,FOMC
+2020-01-09,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1000,-0.5,1,0,1,1,Generic,Richard H. Clarida
+2020-01-16,The Outlook for Housing,Governor Michelle W. Bowman,2000,0.0,0,1,1,1,Generic,Michelle W. Bowman
+2020-01-29,FOMC Press Conference number 41,CHAIRMAN POWELL,2000,0.0,1,1,1,1,Press Conference,Jerome H. Powell
+2020-01-29,FOMC Statement number 128,FOMC,326,-0.5,1,1,1,1,FOMC,FOMC
+2020-02-06,"The Economic Outlook, Monetary Policy, and the Demand for Reserves",Vice Chair for Supervision Randal K. Quarles,2000,-0.25,0,1,0,0,Generic,Randal K. Quarles
+2020-02-21,Financial Markets and Monetary Policy: Is There a Hall of Mirrors Problem?,Vice Chair Richard H. Clarida,2000,0.0,1,1,0,0,Generic,Richard H. Clarida
+2020-02-21,Monetary Policy Strategies and Tools When Inflation and Interest Rates Are Low,Governor Lael Brainard,2688,-0.3333333333333333,1,1,0,1,Generic,Lael Brainard
+2020-02-25,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1000,0.0,0,1,0,0,Generic,Richard H. Clarida
+2020-03-03,FOMC Press Conference number 42,CHAIRMAN POWELL,500,-1.0,0,1,1,0,Press Conference,Jerome H. Powell
+2020-03-03,FOMC Statement number 127,FOMC,107,-0.5,1,1,0,1,FOMC,FOMC
+2020-03-15,FOMC Press Conference number 43,CHAIRMAN POWELL,1500,-0.3333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2020-03-15,FOMC Statement number 126,FOMC,588,-0.5,1,1,1,1,FOMC,FOMC
+2020-03-23,FOMC Statement number 125,FOMC,357,-0.5,0,1,0,0,FOMC,FOMC
+2020-04-09,COVID-19 and the Economy,Chair Jerome H. Powell,1000,-0.5,0,0,0,1,Generic,Jerome H. Powell
+2020-04-29,FOMC Press Conference number 44,CHAIRMAN POWELL,4090,-0.2777777777777778,1,1,1,1,Press Conference,Jerome H. Powell
+2020-04-29,FOMC Statement number 123,FOMC,428,-0.5,1,1,1,1,FOMC,FOMC
+2020-05-13,Current Economic Issues,Chair Jerome H. Powell,403,-0.5,0,0,1,1,Generic,Jerome H. Powell
+2020-05-21,Introductory remarks for the Fed Listens panel on the COVID-19 pandemic,Governor Lael Brainard,439,-0.5,0,0,1,1,Generic,Lael Brainard
+2020-05-21,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1991,-0.5,0,1,0,1,Generic,Richard H. Clarida
+2020-06-10,FOMC Press Conference number 45,CHAIRMAN POWELL,4000,-0.25,1,1,1,1,Press Conference,Jerome H. Powell
+2020-06-10,FOMC Statement number 122,FOMC,432,-0.5,1,1,1,1,FOMC,FOMC
+2020-06-16,U.S. Economic Outlook and Monetary Policy (via prerecorded video),Vice Chair Richard H. Clarida,2000,-0.25,1,1,1,1,Generic,Richard H. Clarida
+2020-06-19,Introductory Comments,Chair Jerome H. Powell,606,0.0,0,0,1,1,Generic,Jerome H. Powell
+2020-07-14,Navigating Monetary Policy through the Fog of COVID,Governor Lael Brainard,2563,-0.5,1,1,0,1,Generic,Lael Brainard
+2020-07-29,FOMC Press Conference number 46,CHAIRMAN POWELL,3000,-0.3333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2020-07-29,FOMC Statement number 121,FOMC,455,0.0,1,1,1,1,FOMC,FOMC
+2020-08-27,New Economic Challenges and the Fed's Monetary Policy Review,Chair Jerome H. Powell,2000,-0.75,1,0,0,1,Generic,Jerome H. Powell
+2020-08-31,The Federal Reserveâs New Monetary Policy Framework: A Robust Evolution,Vice Chair Richard H. Clarida,2000,-0.25,1,1,0,0,Generic,Richard H. Clarida
+2020-09-01,Bringing the Statement on Longer-Run Goals and Monetary Policy Strategy into Alignment with Longer-Run Changes in the Economy,Governor Lael Brainard,1522,-0.5,1,1,0,1,Generic,Lael Brainard
+2020-09-16,FOMC Press Conference number 47,CHAIRMAN POWELL,3570,-0.4375,1,1,1,1,Press Conference,Jerome H. Powell
+2020-09-16,FOMC Statement number 119,FOMC,474,-1.0,1,1,1,1,FOMC,FOMC
+2020-09-23,Optimism in the Time of COVID,Vice Chair for Supervision Randal K. Quarles,3000,0.0,1,1,1,1,Generic,Randal K. Quarles
+2020-09-30,Community Banks Rise to the Challenge,Governor Michelle W. Bowman,1000,0.0,0,0,0,1,Generic,Michelle W. Bowman
+2020-10-06,Recent Economic Developments and the Challenges Ahead,Chair Jerome H. Powell,1476,-0.5,0,1,1,0,Generic,Jerome H. Powell
+2020-10-14,Remarks at the Hoover Institution,Vice Chair for Supervision Randal K. Quarles,2000,-0.25,0,1,1,0,Generic,Randal K. Quarles
+2020-10-14,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1668,-0.5,1,0,0,1,Generic,Richard H. Clarida
+2020-10-19,"U.S. Economic Outlook, Monetary Policy, and Initiatives to Sustain the Flow of Credit to Households and Firms",Vice Chair Richard H. Clarida,1787,-0.5,1,1,1,1,Generic,Richard H. Clarida
+2020-10-20,Modernizing and Strengthening CRA Regulations: A Conversation with the Housing Community,Governor Lael Brainard,1000,0.0,1,0,1,1,Generic,Lael Brainard
+2020-10-21,Achieving a Broad-Based and Inclusive Recovery,Governor Lael Brainard,3573,-0.5,1,1,0,1,Generic,Lael Brainard
+2020-11-05,FOMC Press Conference number 48,CHAIRMAN POWELL,1500,-0.3333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2020-11-05,FOMC Statement number 118,FOMC,472,-0.5,1,1,1,1,FOMC,FOMC
+2020-11-16,The Federal Reserve's New Framework: Context and Consequences,Vice Chair Richard H. Clarida,4039,0.0,1,1,0,1,Generic,Richard H. Clarida
+2020-12-01,Modernizing and Strengthening CRA Regulations: A Conversation with the Chicago Community Trust,Governor Lael Brainard,1000,-0.5,1,0,1,1,Generic,Lael Brainard
+2020-12-16,FOMC Press Conference number 49,CHAIRMAN POWELL,3000,-0.3333333333333333,1,1,1,1,Press Conference,Jerome H. Powell
+2020-12-16,FOMC Statement number 117,FOMC,501,-0.5,1,1,0,1,FOMC,FOMC
+2021-01-08,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1524,-0.25,1,1,1,1,Generic,Richard H. Clarida
+2021-01-13,Full Employment in the New Monetary Policy Framework,Governor Lael Brainard,3060,-0.375,1,1,0,1,Generic,Lael Brainard
+2021-01-13,The Federal Reserve's New Framework: Context and Consequences,Vice Chair Richard H. Clarida,3093,0.0,1,1,0,0,Generic,Richard H. Clarida
+2021-01-27,FOMC Press Conference number 50,CHAIRMAN POWELL,2000,-0.5,1,1,0,1,Press Conference,Jerome H. Powell
+2021-01-27,FOMC Statement number 136,FOMC,512,-1.0,1,1,1,1,FOMC,FOMC
+2021-02-10,Getting Back to a Strong Labor Market,Chair Jerome H. Powell,2747,-0.16666666666666666,1,0,0,1,Generic,Jerome H. Powell
+2021-02-24,How Should We Think about Full Employment in the Federal Reserve's Dual Mandate?,Governor Lael Brainard,4718,-0.2,1,1,0,1,Generic,Lael Brainard
+2021-02-24,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1513,-0.75,1,1,1,1,Generic,Richard H. Clarida
+2021-03-01,Some Preliminary Financial Stability Lessons from the COVID-19 Shock,Governor Lael Brainard,1000,0.0,1,0,1,1,Generic,Lael Brainard
+2021-03-02,U.S. Economic Outlook and Monetary Policy: An Update,Governor Lael Brainard,2392,-0.8333333333333334,1,1,1,1,Generic,Lael Brainard
+2021-03-17,FOMC Press Conference number 51,CHAIRMAN POWELL,3000,-0.25,1,1,1,1,Press Conference,Jerome H. Powell
+2021-03-17,FOMC Statement number 135,FOMC,509,-1.0,1,1,1,1,FOMC,FOMC
+2021-03-22,The Economic Outlook and Prospects for Small Business,Governor Michelle W. Bowman,2080,-0.3333333333333333,1,1,1,1,Generic,Michelle W. Bowman
+2021-03-23,Remaining Patient as the Outlook Brightens,Governor Lael Brainard,1624,0.0,1,1,1,1,Generic,Lael Brainard
+2021-03-25,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1665,-0.25,1,1,0,1,Generic,Richard H. Clarida
+2021-03-29,TreasuryâFederal Reserve Cooperation and the Importance of Central Bank Independence,Governor Christopher J. Waller,1000,0.0,0,1,0,0,Generic,Christopher J. Waller
+2021-04-14,The Federal Reserve's New Framework and Outcome-Based Forward Guidance,Vice Chair Richard H. Clarida,2825,0.0,1,1,0,1,Generic,Richard H. Clarida
+2021-04-28,FOMC Press Conference number 52,CHAIRMAN POWELL,4235,-0.1111111111111111,1,1,1,1,Press Conference,Jerome H. Powell
+2021-04-28,FOMC Statement number 134,FOMC,504,-0.5,1,1,1,1,FOMC,FOMC
+2021-05-03,Community Development,Chair Jerome H. Powell,1000,-0.5,0,0,1,1,Generic,Jerome H. Powell
+2021-05-05,The Economic Outlook and Implications for Monetary Policy,Governor Michelle W. Bowman,1951,-0.25,1,1,1,1,Generic,Michelle W. Bowman
+2021-05-11,Patience and Progress as the Economy Reopens and Recovers,Governor Lael Brainard,2558,-0.16666666666666666,1,0,1,1,Generic,Lael Brainard
+2021-05-12,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1584,-0.25,1,1,0,1,Generic,Richard H. Clarida
+2021-05-13,The Economic Outlook and Monetary Policy,Governor Christopher J. Waller,3000,-0.3333333333333333,1,1,1,1,Generic,Christopher J. Waller
+2021-05-26,The Economic Outlook and Monetary Policy,Vice Chair for Supervision Randal K. Quarles,3000,-0.5,1,0,1,1,Generic,Randal K. Quarles
+2021-06-01,Remaining Steady as the Economy Reopens,Governor Lael Brainard,3260,-0.375,1,0,0,1,Generic,Lael Brainard
+2021-06-16,FOMC Press Conference number 53,CHAIRMAN POWELL,7140,-0.26666666666666666,1,1,1,1,Press Conference,Jerome H. Powell
+2021-06-16,FOMC Statement number 133,FOMC,501,-0.5,1,1,1,1,FOMC,FOMC
+2021-06-23,Building Economic Resilience in Communities,Governor Michelle W. Bowman,2198,0.0,0,0,1,1,Generic,Michelle W. Bowman
+2021-07-28,FOMC Press Conference number 54,CHAIRMAN POWELL,6241,-0.11538461538461539,1,1,1,1,Press Conference,Jerome H. Powell
+2021-07-28,FOMC Statement number 132,FOMC,514,-0.5,1,1,1,1,FOMC,FOMC
+2021-07-30,Assessing Progress as the Economy Moves from Reopening to Recovery,Governor Lael Brainard,1777,-0.25,1,1,1,1,Generic,Lael Brainard
+2021-08-03,Welcoming Remarks,Governor Michelle W. Bowman,964,0.0,0,0,0,1,Generic,Michelle W. Bowman
+2021-08-04,"Outlooks, Outcomes, and Prospects for U.S. Monetary Policy",Vice Chair Richard H. Clarida,2688,-0.3333333333333333,1,1,1,1,Generic,Richard H. Clarida
+2021-08-27,Monetary Policy in the Time of COVID,Chair Jerome H. Powell,3387,-0.5,1,1,0,1,Generic,Jerome H. Powell
+2021-09-22,FOMC Press Conference number 55,CHAIRMAN POWELL,3000,-0.25,1,1,1,1,Press Conference,Jerome H. Powell
+2021-09-22,FOMC Statement number 131,FOMC,536,-0.5,1,1,1,1,FOMC,FOMC
+2021-09-27,Navigating Delta Headwinds on the Path to a Full Recovery,Governor Lael Brainard,2872,-0.3333333333333333,1,1,0,1,Generic,Lael Brainard
+2021-10-05,Goodbye to All That: The End of LIBOR,Vice Chair for Supervision Randal K. Quarles,460,0.0,0,1,0,0,Generic,Randal K. Quarles
+2021-10-12,U.S. Economic Outlook and Monetary Policy,Vice Chair Richard H. Clarida,1388,-0.25,1,1,1,1,Generic,Richard H. Clarida
+2021-10-13,The View from Here:  The Outlook for the U.S. Economy and Implications for Monetary Policy,Governor Michelle W. Bowman,3062,0.0,1,1,1,1,Generic,Michelle W. Bowman
+2021-10-19,The Economic Outlook and a Cautionary Tale  on âIdiosyncraticâ Price Changes and Inflation,Governor Christopher J. Waller,4083,0.3,1,1,0,1,Generic,Christopher J. Waller
+2021-10-19,Welcoming Remarks,Governor Michelle W. Bowman,1860,0.0,0,0,0,1,Generic,Michelle W. Bowman
+2021-10-20,How Long is Too Long?  How High is Too High?: Managing Recent Inflation Developments  within the FOMCâs Monetary Policy Framework,Governor Randal K. Quarles,4044,0.0,1,1,1,1,FOMC,Randal K. Quarles
+2021-11-03,FOMC Press Conference number 56,CHAIRMAN POWELL,6415,-0.11538461538461539,1,1,1,1,Press Conference,Jerome H. Powell
+2021-11-03,FOMC Statement number 130,FOMC,658,-0.5,1,1,1,1,FOMC,FOMC
+2021-11-08,Flexible Average Inflation Targeting and Prospects for U.S. Monetary Policy,Vice Chair Richard H. Clarida,2064,-0.16666666666666666,1,1,1,1,Generic,Richard H. Clarida
+2021-11-08,The U.S. Housing and Mortgage Market: Risks and Resilience,Governor Michelle W. Bowman,2000,0.0,1,0,1,1,Generic,Michelle W. Bowman
+2021-11-19,Economic Outlook,Governor Christopher J. Waller,3381,0.625,1,1,0,0,Generic,Christopher J. Waller
+2021-12-15,FOMC Press Conference number 57,CHAIRMAN POWELL,7000,0.25,1,1,1,1,Press Conference,Jerome H. Powell
+2021-12-15,FOMC Statement number 129,FOMC,545,-0.5,1,1,1,1,FOMC,FOMC
+2021-12-17,A Hopeless and Imperative Endeavor: Lessons from the Pandemic for Economic Forecasters,Governor Christopher J. Waller,3173,-0.125,1,0,0,1,Generic,Christopher J. Waller
+2022-01-26,FOMC Press Conference number 58,CHAIRMAN POWELL,5840,0.125,1,1,1,1,Press Conference,Jerome H. Powell
+2022-01-26,FOMC Statement number 144,FOMC,442,0.5,1,1,1,1,FOMC,FOMC
+2022-02-21,High Inflation and the Outlook for Monetary Policy,Governor Michelle W. Bowman,1000,1.0,1,0,1,1,Generic,Michelle W. Bowman
+2022-02-24,Fighting Inflation with Rate Hikes and Balance Sheet Reduction,Governor Christopher J. Waller,4463,0.5,1,1,0,1,Generic,Christopher J. Waller
+2022-03-16,FOMC Press Conference number 59,CHAIRMAN POWELL,7482,0.36666666666666664,1,1,1,1,Press Conference,Jerome H. Powell
+2022-03-16,FOMC Statement number 143,FOMC,319,0.5,1,1,1,1,FOMC,FOMC
+2022-03-18,Welcoming Remarks,Governor Michelle W. Bowman,530,0.0,0,0,0,1,Generic,Michelle W. Bowman
+2022-03-21,Restoring Price Stability,Chair Pro Tempore Jerome H. Powell,3000,0.5,1,0,0,0,Generic,Jerome H. Powell
+2022-03-24,The Red Hot Housing Market: the Role of Policy and Implications for Housing Affordability,Governor Christopher J. Waller,2000,-0.25,0,1,0,0,Generic,Christopher J. Waller
+2022-04-05,Variation in the Inflation Experiences of Households,Governor Lael Brainard,2870,0.3333333333333333,1,0,1,1,Generic,Lael Brainard
+2022-05-04,FOMC Press Conference number 60,CHAIRMAN POWELL,6918,0.10714285714285714,1,1,1,1,Press Conference,Jerome H. Powell
+2022-05-04,FOMC Statement number 142,FOMC,376,0.5,1,1,1,1,FOMC,FOMC
+2022-05-06,Reflections on Monetary Policy in 2021,Governor Christopher J. Waller,2564,0.16666666666666666,1,1,1,1,Generic,Christopher J. Waller
+2022-05-25,Commencement Remarks,Vice Chair Lael Brainard,1000,0.0,0,0,0,1,Generic,Lael Brainard
+2022-05-30,"Responding to High Inflation, with Some Thoughts on a Soft Landing",Governor Christopher J. Waller,4000,0.25,1,0,0,1,Generic,Christopher J. Waller
+2022-06-15,FOMC Press Conference number 61,CHAIRMAN POWELL,9077,0.2631578947368421,1,1,1,1,Press Conference,Jerome H. Powell
+2022-06-15,FOMC Statement number 141,FOMC,344,0.5,1,1,1,1,FOMC,FOMC
+2022-06-18,Lessons Learned on Normalizing Monetary Policy,Governor Christopher J. Waller,2850,0.16666666666666666,0,1,0,0,Generic,Christopher J. Waller
+2022-06-23,The Outlook for Inflation and Monetary Policy,Governor Michelle W. Bowman,1653,0.75,1,1,0,1,Generic,Michelle W. Bowman
+2022-07-14,Monetary Policy in a World of Conflicting Data,Governor Christopher J. Waller,3709,0.625,1,1,0,1,Generic,Christopher J. Waller
+2022-07-27,FOMC Press Conference number 62,CHAIRMAN POWELL,5758,0.25,1,1,1,1,Press Conference,Jerome H. Powell
+2022-07-27,FOMC Statement number 140,FOMC,317,0.5,1,1,0,1,FOMC,FOMC
+2022-08-06,Fighting Inflation in Challenging Times,Governor Michelle W. Bowman,2000,0.75,1,1,1,1,Generic,Michelle W. Bowman
+2022-08-17,Working Women in the Pandemic Era,Governor Michelle W. Bowman,3040,0.0,1,0,0,1,Generic,Michelle W. Bowman
+2022-08-26,Monetary Policy and Price Stability,Chair Jerome H. Powell,1521,0.5,1,0,0,0,Generic,Jerome H. Powell
+2022-09-07,Bringing Inflation Down,Vice Chair Lael Brainard,1432,0.5,1,1,0,0,Generic,Lael Brainard
+2022-09-07,Making the Financial System Safer and Fairer,Vice Chair for Supervision Michael S. Barr,1000,0.0,1,0,1,1,Generic,Michael S. Barr
+2022-09-09,The Economic Outlook: Time to Let the Data Do the Talking,Governor Christopher J. Waller,3499,0.5,1,1,1,1,Generic,Christopher J. Waller
+2022-09-21,FOMC Press Conference number 63,CHAIRMAN POWELL,5679,0.2916666666666667,1,1,1,1,Press Conference,Jerome H. Powell
+2022-09-21,FOMC Statement number 139,FOMC,313,0.5,1,1,1,1,FOMC,FOMC
+2022-09-30,Global Financial Stability Considerations for Monetary Policy in a High-Inflation Environment,Vice Chair Lael Brainard,1943,0.5,1,1,0,0,Generic,Lael Brainard
+2022-10-04,Technologyâs Impact on the Post-Pandemic Economy,Governor Philip N. Jefferson,806,-0.5,0,0,0,1,Generic,Philip N. Jefferson
+2022-10-06,Economic Outlook,Governor Lisa D. Cook,2729,0.5,1,0,0,1,Generic,Lisa D. Cook
+2022-10-06,The Economic Outlook with a Look at the Housing Market,Governor Christopher J. Waller,3312,0.0,1,1,0,0,Generic,Christopher J. Waller
+2022-10-10,Restoring Price Stability in an Uncertain Economic Environment,Vice Chair Lael Brainard,2237,0.5,1,1,0,1,Generic,Lael Brainard
+2022-10-12,Forward Guidance as a Monetary Policy Tool: Considerations for the Current Economic Environment,Governor Michelle W. Bowman,2462,0.16666666666666666,1,1,0,0,Generic,Michelle W. Bowman
+2022-10-20,Welcoming Remarks,Governor Michelle W. Bowman,1152,0.0,0,0,0,1,Generic,Michelle W. Bowman
+2022-11-02,FOMC Statement number 138,FOMC,381,1.0,1,1,1,1,FOMC,FOMC
+2022-11-16,The Economic Outlook and a Word of Caution on Inflation,Governor Christopher J. Waller,3580,0.125,1,1,1,1,Generic,Christopher J. Waller
+2022-11-17,Opportunity and Inclusive Economic Growth,Governor Philip N. Jefferson,1000,0.0,1,1,1,1,Generic,Philip N. Jefferson
+2022-11-28,"What Can We Learn from the Pandemic and the War  about Supply Shocks, Inflation, and Monetary Policy?",Vice Chair Lael Brainard,2000,0.25,1,0,0,0,Generic,Lael Brainard
+2022-11-30,Inflation and the Labor Market,Chair Jerome H. Powell,2811,0.3333333333333333,1,1,0,0,Generic,Jerome H. Powell
+2022-11-30,The Economic Outlook and U.S. Productivity,Governor Lisa D. Cook,2923,0.16666666666666666,0,1,1,1,Generic,Lisa D. Cook
+2022-12-01,Why Bank Capital Matters,Vice Chair for Supervision Michael S. Barr,1000,0.0,0,1,0,0,Generic,Michael S. Barr
+2022-12-14,FOMC Statement number 137,FOMC,385,1.0,1,1,1,1,FOMC,FOMC
+2023-01-06,Thoughts on Inflation in a Supply-Constrained Economy,Governor Lisa D. Cook,2327,0.16666666666666666,1,0,0,0,Generic,Lisa D. Cook
+2023-01-10,Brief Remarks on the Economy and Bank Supervision,Governor Michelle W. Bowman,1000,0.5,1,0,1,1,Generic,Michelle W. Bowman
+2023-01-19,Staying the Course to Bring Inflation Down,Vice Chair Lael Brainard,2402,-0.3333333333333333,1,0,0,1,Generic,Lael Brainard
+2023-01-20,A Case for Cautious Optimism,Governor Christopher J. Waller,2277,0.3333333333333333,1,1,0,1,Generic,Christopher J. Waller
+2023-02-01,FOMC Statement number 148,FOMC,336,1.0,1,1,1,1,FOMC,FOMC
+2023-02-08,"The Inflation Rate for Necessities: A Look at Food, Energy and Shelter Inflation",Governor Christopher J. Waller,3715,0.375,1,1,1,1,Generic,Christopher J. Waller
+2023-02-24,"Discussion of the Paper ""Managing Disinflations""  by Stephen G. Cecchetti, Michael E. Feroli, Peter Hooper,  Frederic S. Mishkin, and Kermit L. Schoenholtz",Governor Philip N. Jefferson,2442,-0.16666666666666666,1,0,0,1,Generic,Philip N. Jefferson
+2023-02-27,Recent Inflation and the Dual Mandate,Governor Philip N. Jefferson,3593,-0.125,1,0,0,0,Generic,Philip N. Jefferson
+2023-03-02,Februaryâs Hot Data Releases,Governor Christopher J. Waller,1403,0.0,1,0,0,0,Generic,Christopher J. Waller
+2023-03-22,FOMC Statement number 147,FOMC,373,0.5,1,1,1,1,FOMC,FOMC
+2023-03-27,Implementation and Transmission of Monetary Policy,Governor Philip N. Jefferson,4332,-0.1,1,1,0,0,Generic,Philip N. Jefferson
+2023-03-31,The U.S. Economic Outlook and Monetary Policy,Governor Lisa D. Cook,2430,0.16666666666666666,1,1,0,1,Generic,Lisa D. Cook
+2023-03-31,The Unstable Phillips Curve,Governor Christopher J. Waller,1635,0.0,1,0,0,0,Generic,Christopher J. Waller
+2023-04-14,Financial Stabilization and Macroeconomic Stabilization:  Two Tools for Two Problems,Governor Christopher J. Waller,2206,0.5,1,1,0,0,Generic,Christopher J. Waller
+2023-04-20,Brief Remarks,Governor Michelle W. Bowman,643,0.0,0,0,1,1,Generic,Michelle W. Bowman
+2023-04-21,Important Questions for Economic Research,Governor Lisa D. Cook,2656,0.16666666666666666,1,1,1,1,Generic,Lisa D. Cook
+2023-05-03,FOMC Statement number 146,FOMC,339,0.5,1,1,0,1,FOMC,FOMC
+2023-05-12,On the Assessment of Current Monetary Policy,Governor Philip N. Jefferson,1096,0.0,1,1,0,1,Generic,Philip N. Jefferson
+2023-05-18,The U.S. Economic Outlook and Considerations for Monetary Policy,Governor Philip N. Jefferson,1779,0.0,1,1,1,1,Generic,Philip N. Jefferson
+2023-05-24,"Hike, Skip, or Pause?",Governor Christopher J. Waller,2642,0.0,1,1,1,0,Generic,Christopher J. Waller
+2023-06-14,FOMC Statement number 145,FOMC,348,0.5,1,1,1,1,FOMC,FOMC
